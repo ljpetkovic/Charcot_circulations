@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="">
+    <fileDesc>
+      <titleStmt>
+        <title>Oeuvres complètes de J. M. Charcot. Tome 1. Leçons sur les maladies du système nerveux</title>
+        <author>Bourneville, Désiré Magloire</author>
+        <author>Charcot, Jean-Martin</author>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1892" />
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text xmlns="">
+    <body>
+      <div>
+        <p>
+          <s>A</s>
+        </p>
+        <p>
+          <s>Achromatopsie hystérique, 287, 304, 340, 346.</s>
+        </p>
+        <p>
+          <s>Amblyopie hystérique, note, 362 ; — dans la sclérose en plaques, 233.</s>
+        </p>
+        <p>
+          <s>Amyotrophie protopathique ( V .</s>
+        </p>
+        <p>
+          <s>Atrophie musculaire). — symptoma-tique : dans la contracture hystéri-que, 365 ; d'un foyer sanguin du cerveau, note, 62; — d'une lésion hémilatérale de la moelle , 103, — de la sclérose en plaques dis-séminées, 62 , 244 ; de la sclérose des cordons latéraux, 61 ; — de la sclérose des cordons posté-rieurs, 61.</s>
+        </p>
+        <p>
+          <s>Analgésie, 303, 308, 355.</s>
+        </p>
+        <p>
+          <s>Anesthésie (Rôle de 1') dans le dé-cubitus de cause spinale, 100.</s>
+        </p>
+        <p>
+          <s>Angioneuroses, 139; — chez les hys-tériques, 140.</s>
+        </p>
+        <p>
+          <s>Apoplexie spinale, 65.</s>
+        </p>
+        <p>
+          <s>Arthrite déformante, 120.</s>
+        </p>
+        <p>
+          <s>Arthropathies des ataxiques, 5 ; — symptômes. 118; — Siège, note, 113, 119 ; lésions des jointures, 120 ; — altération des cellules des cornes antérieures, 122 ; — dans Vatrophie musculaire progressive, 124. — de cause cérébrale et spi-nale, 112 ; — dans ['hémiparaplégie traumatique, 103 : des hémiplégi-ques : historique, 113; — mode de début, note, 113; — lésions, 120; — caractères cliniques, 119.</s>
+        </p>
+        <p>
+          <s>Articulations (Affections trophiques des), 25. (V Artropathies.)</s>
+        </p>
+        <p>
+          <s>Ataxie locomotrice (Affections cuta-nées dans 1'), 76; relation ertre ces affections et les douleurs ful-gurantes, 76 ; — différences qui séparent l'ataxic du tremblement de la sclérose en plaques, 230 ; — dans la sclérose en plaques, 242.</s>
+        </p>
+        <p>
+          <s>Atrophie musculaire, 5. — consé-cutive à la section du nerf sciati-tique, 9. — Arthropathies dans 1' —, progressive, 122. — Lésions inci-tatives des cellules nerveuses dans T — 69 ; — sa tendance à la gé-néralisation, 70.</s>
+        </p>
+        <p>
+          <s>Attaques-Accès, 372, 373, 375.</s>
+        </p>
+        <p>
+          <s>Attaques apoplectiformes dans la sclérose en plaques, 249 ; — fré-quence, 249, 250, : — dans la pa-ralysie générale, 250; — pathogé-nie, 252 ; — dans les cas de foyers-apoplectiques anciens, 25L . — Variétés, 250. — Symptômes, 253.</s>
+        </p>
+        <p>
+          <s>— Pouls et température, 254. Attaque hystérique : Description,</s>
+        </p>
+        <p>
+          <s>435. — Période épileptoïde, 537; P. des contorsions et des grands mouvements, 437 ; — P. des atti-tudes passionnelles, 438 ; — P. terminale, 439. — Variétés, 445.</s>
+        </p>
+        <p>
+          <s>— Forme épileptoïde, 445. — F. démoniaque, 446. — F. extatique, 446. — Immixtion de phénomènes cataleptiques ou somnambuliques, 447.</s>
+        </p>
+        <p>
+          <s>Attitudes passionnelles, 438, 443. Attraction (Théorie de 1'), 144. Aura hystérique, 286, 325 ; — Ca-ractères de 1' —, 325 ; — 1"' nœud</s>
+        </p>
+        <p>
+          <s>Charcot. Œuvres complètes, t. i.</s>
+        </p>
+        <p>
+          <s>32</s>
+        </p>
+        <p>
+          <s>ou douleur ovarienne, 325: 2e nœud ou globe hystérique, 826 ; 3" nœud ou phénomènes céphaliques, 326. —¦ Influence de la compression do l'ovaire sur 1' —, 326, 331, 339, 340, 342, 346, 375. Avant-mur, 313.</s>
+        </p>
+        <p>
+          <s>B</s>
+        </p>
+        <p>
+          <s>Bromure de camphre, 188.</s>
+        </p>
+        <p>
+          <s>Bulbe rachidien. Lésions muscu-laires consécutives aux affections du - . 72. — Lésions du — dans la paralysie agitante, 182 ; — dans la sclérose en plaques, 193, 251.</s>
+        </p>
+        <p>
+          <s>C</s>
+        </p>
+        <p>
+          <s>Capsule interne, 313. Capsules surrénales (Hémorrhagie des) dans les lésions spinales, 128. Catalepsie, 447.</s>
+        </p>
+        <p>
+          <s>Cellules nerveuses motrices des cor-nes antérieures de la substance grise de la moelle, 62. — Lésions de ces cellules : forme aiguë (pa-ralysie infantile), 68 ; — forme chronique (atrophie musculaire progressive, 69. — Rôie des — dans la production des troubles trophiques, 72. — Dégénération jaune des cellules nerveuses, 218, 219. — Lésions des — dans la sclérose en plaques, 244, 245 ; — — dans la contracture hystérique, 365.</s>
+        </p>
+        <p>
+          <s>Cerveau ^Notions anatomiques sur le), 312.</s>
+        </p>
+        <p>
+          <s>Chloroforme, 349.</s>
+        </p>
+        <p>
+          <s>Chorée, 178, 392, 404. — Mouve-ments désordonnés de la — com-parés au tremblement de la sclérose en plaques, 280, 317. — (V. IlÉ-michorée). — rythmique hystéri-que, 386. — Définition, 387. — Observation, 387. — Symptômes, 387. — Parole, 391. — Démarche, 391. — Nature, 392. Arrêt des mouvements, 399. — Fréquence, 402. — Influence de la volonté, 403.— Traitement, 400, 401, 405.</s>
+        </p>
+        <p>
+          <s>Cicatrices vicieuses, 24.</s>
+        </p>
+        <p>
+          <s>Cirrhose des muscles, 55.</s>
+        </p>
+        <p>
+          <s>Cœlialgie hystérique, 286, 323.</s>
+        </p>
+        <p>
+          <s>Compression de l'ovaire, 331, 398.— Ses effets sur l'altaquc d'hystérie, 332. — Mode opératoire, 332. — Historique, 333.</s>
+        </p>
+        <p>
+          <s>Congestion apoplectiforme et épilep-tiforme, 378.</s>
+        </p>
+        <p>
+          <s>Contractilité électrique après les lésions pathologiques des nerfs et après les lésions expérimentales, 37 ; — dans la contracture hysté-rique, 365 ; — dans les fractures et les luxations de la colonne ver-tébrale, 66; — dans l'hématomyé-lie, 65 ; — dans la myélite aiguë centrale, 65 ; — dans la sclérose en plaques, 241. (V. Myopathies.)</s>
+        </p>
+        <p>
+          <s>Contracture hystérique -permanente 285, 339, 343, 346. — Action du chloroforme sur la —, 349. — Tré-înulation convulsive dans la —, 350. — Forme hémiplégique de la —, 347, 351. — caractères qui la différencient de l'hémiplégie orga-nique, 351 — Forme hémipara-plégique de la —, 358, 366. — Forme paraplégique, 347, 355, 360.</s>
+        </p>
+        <p>
+          <s>— Pronostic de la —, 355, 364. — Soudaineté de la guérison dans certains cas de —, 359 ; — cures réputées miraculeuses, 357. — Con-tractures incurables, 360. — Lé-sions dans la —, 361, 362. — Phy-siologie pathologique de la—,368.</s>
+        </p>
+        <p>
+          <s>— permanente dans la sclérose en plaques, 245.</s>
+        </p>
+        <p>
+          <s>— tardive dans l'hémiplégie de canse cérébrale, 351.</s>
+        </p>
+        <p>
+          <s>— des uretères, 297. Convulsionnaires, 303, 394. — Dé-moniaques, 343, 455, 356. (V. Se-cours).</s>
+        </p>
+        <p>
+          <s>Convulsions (Arrêt des) chez les hystériques par la compression de l'ovaire, 531 ;—dans l'épilepsie,338.</s>
+        </p>
+        <p>
+          <s>Corde du tympan,nerf dilatateur,140.</s>
+        </p>
+        <p>
+          <s>Corps granuleux, 215.</s>
+        </p>
+        <p>
+          <s>Corps opto-striés (Lésions des) : leurs effets, 307. — Théorie fran-çaise ,310.— Théorie anglaise,309.</s>
+        </p>
+        <p>
+          <s>Courants électriques. Différences entre les C. continus et les C. inter-rompus, 39,44. (V. Farabisation.)</s>
+        </p>
+        <p>
+          <s>Crises gastriques, 261.</s>
+        </p>
+        <p>
+          <s>D</s>
+        </p>
+        <p>
+          <s>Danse cle Saint-Guy, 459.</s>
+        </p>
+        <p>
+          <s>Décubitus aigu, 83. — Mode d'évo-lution, 86. — Affections consécu-tives au —, 88 ; — dans l'apoplexie symptomatique des lésions céré-brales en foyer, 91 ; — siège,92. — Pathogénie du —, 94, 139 ; — cle cause spinale, 86, 95 ; — siège,</s>
+        </p>
+        <p>
+          <s>96 ; — dans la myélite traumatique,</s>
+        </p>
+        <p>
+          <s>97 ; — influence du siège de la lésion spinale, 98 ; — dans l'hémi-paraplégie traumatique, 100 ; — dans la myélite spontanée, 106 ; — épo-que de son apparition, 106 ; — Rôle de la substance grise sur la production du—, 108. — Influence des lésions des nerfs sur le —, 109.</s>
+        </p>
+        <p>
+          <s>Dégénération cireuse des muscles, note, 42 ; 55.</s>
+        </p>
+        <p>
+          <s>Délire des grandeurs dans la sclé-rose en plaques, 238.</s>
+        </p>
+        <p>
+          <s>Démarche dans la paralysie agitante, 175.</s>
+        </p>
+        <p>
+          <s>Diplopie dans la sclérose en plaques, 233, 258.</s>
+        </p>
+        <p>
+          <s>Douleurs fulgurantes fPathogénie des), 78.</s>
+        </p>
+        <p>
+          <s>Dynamométrie clans la paralysie agi-tante, 163, 174.</s>
+        </p>
+        <p>
+          <s>E</s>
+        </p>
+        <p>
+          <s>Ecchymoses viscérales dans les lé-sions cérébrales en foyer (endo-carde, estomac, plèvre, vessie), 125, 126; — cle l'aponévrose épicrânienne 136 ; — dans les lésions spinales, 127.</s>
+        </p>
+        <p>
+          <s>Ecriture (Spécimens de 1') dans la paralysie agitante, 167, 421 ; — dans la sclérose en plaques, 227, 228.</s>
+        </p>
+        <p>
+          <s>Ecthyma, 76.</s>
+        </p>
+        <p>
+          <s>Electro-Diagnostic, 35.</s>
+        </p>
+        <p>
+          <s>Embolies gangreneuses, suite du dé-cubitus aigu, 88.</s>
+        </p>
+        <p>
+          <s>Encéphalite, 91.</s>
+        </p>
+        <p>
+          <s>Endocardite ulcéreuses avec embo-lies multiples et état typhoïde, 82. Epidémies hystériques, 334 ; — de</s>
+        </p>
+        <p>
+          <s>Saint-Médard, 303, 336 ; — de Saint-Louis, 359.</s>
+        </p>
+        <p>
+          <s>Epilepsie clans ses rapports avec l'hystérie, 367, 368, 370. — Des-cription d'un accès d'—, note, 379; — spinale dans la contracture hys-térique, 350, 364 ; — dans la sclé-rose en plaques, 245, 262. — Ses formes, 267. — Arrêt de 1'—, 338, 375. (V, Etat de mal épileptique).</s>
+        </p>
+        <p>
+          <s>Eruptions eczémateuses, 24 ; liché-noïdes et pustuleuses, 76 ; - pem-phigoïdes, 24, 32, 110.</s>
+        </p>
+        <p>
+          <s>Erytiième pernio, 25.</s>
+        </p>
+        <p>
+          <s>Escarre de la fesse, 4; à formation rapide, 83 ; — son siège clans les cas d'apoplexie, 92 ; — dans les at-taques apoplectiformes, 253. — sacrée, 96 ; — dans l'ataxie loco-motrice, 77 : — dans l'état de mal épileptique, 378. (V. Décubitus.)</s>
+        </p>
+        <p>
+          <s>Etat de mal épileptique, 372. (V. Température.) — hystéro-épilep-tique, 339, 397 , 400. (V. Tempéra-ture.)</s>
+        </p>
+        <p>
+          <s>Ether, 401.</s>
+        </p>
+        <p>
+          <s>Excitabilité électrique (Altérations histologiques correspondant à la diminution de 1'), 51.</s>
+        </p>
+        <p>
+          <s>Expériences de MM. Erb, Ziemm-sen, O. Weiss, 53.</s>
+        </p>
+        <p>
+          <s>F</s>
+        </p>
+        <p>
+          <s>Faisceaux racliculaires internes, 79. — Irritation des— dans la sclérose postérieure, 80.</s>
+        </p>
+        <p>
+          <s>Faradisation et galvanisation : diffé-rences d'action, 39, 55, 58 ; — dans la sclérose en plaques, 241.</s>
+        </p>
+        <p>
+          <s>Fève de Calabar dans la paralysie agitante, 187 ; — dans la sclérose en plaques, note, 272.</s>
+        </p>
+        <p>
+          <s>G</s>
+        </p>
+        <p>
+          <s>Ganglion cervical supérieur (Effets résultant cle l'extirpation du), 135. Glossy skin, 25. Globe hystérique. (V. Aura.) Griffe dans un cas de sclérose en</s>
+        </p>
+        <p>
+          <s>plaques avec lésions des cellules nerveuses, note, 63 ; — dans la pa-ralysie agitante, 170.</s>
+        </p>
+        <p>
+          <s>H</s>
+        </p>
+        <p>
+          <s>1I ématomyblie, 64. — Pathogénic, 64. — Diminution ou abolition de la contractilité électrique, 65. — Altération des urines, 129.</s>
+        </p>
+        <p>
+          <s>Hémianesthésie hystérique, 285,300, 330. — Historique, 302. — Lésions des sens, 304. — Relations entre l'hémianesthésie, l'hyperesthésie ovarienne, la paralysie et la con-tracture, 304 , 330. — Caractères qui la séparent de l'hémianesthésie de cause encéphalique, 306, 315.</s>
+        </p>
+        <p>
+          <s>— de cause encéphalique, historique, 308, 309 ; — ses caractères, 308,315.</s>
+        </p>
+        <p>
+          <s>— Cas de Tûrck, 313 ; note, 315. Hémichorée, 316, 391-</s>
+        </p>
+        <p>
+          <s>Hémiopie, 285.</s>
+        </p>
+        <p>
+          <s>Hémiparaplégie traumatique, 100. — Arthro|athies dans 1' —, 103, 106.</s>
+        </p>
+        <p>
+          <s>— Atrophie musculaire dans 1' —, 105. — Altérations des urines dans 1' —, 129.</s>
+        </p>
+        <p>
+          <s>Hémiplégie dans les attaques apo-plectiformes, 253 ; — hystérique, 349.</s>
+        </p>
+        <p>
+          <s>Histologie normale du système ner-veux, 196.</s>
+        </p>
+        <p>
+          <s>Hypérémié neuro-paralytique, 133, 135.</s>
+        </p>
+        <p>
+          <s>Hyperesthésie ovarienne, 286, 300, 304, 321, 394, 3%. — Fréquence, 321. — Historique, 321. — Carac-tères cliniques,324.— Lésions ana-tomiques de l'ovaire, 329. — Con-clusions, 338. — Faits cliniques, 340, 346, 373.</s>
+        </p>
+        <p>
+          <s>Hystérie (V. Epidémie, Hémianes-thésie, Hyperesthésie ovarienne, Ischurie, Secours) ; — épilepti-forme, 369; — ovarienne, 302 ; — grave, 306, 383; — locale, 320. — infantile, 451. — locale traumati-que, 450.</s>
+        </p>
+        <p>
+          <s>Hystéro-épilepsie, 332, 367. — Si-gnification de ce mot, 368 ; — à crises distinctes, 371. — Variétés de 1' —, 370. — Nature de 1' —, 373. — Température dans 1' —,</s>
+        </p>
+        <p>
+          <s>376. — Etat de mal hystéro-épilep-tique, 381. — Cas graves d'—,383.</s>
+        </p>
+        <p>
+          <s>I</s>
+        </p>
+        <p>
+          <s>Immobilisation des membres (Effets de 1'), 8, 12.</s>
+        </p>
+        <p>
+          <s>Incoorbination motrice, 230.</s>
+        </p>
+        <p>
+          <s>Infection purulente, suite du décu-bitus, 88.</s>
+        </p>
+        <p>
+          <s>Intoxication putride, suite du décu-bitus, 88.</s>
+        </p>
+        <p>
+          <s>Irritabilité musculaire, 41.</s>
+        </p>
+        <p>
+          <s>Irritation (Rôle de 1') des nerfs au point de vue de la production des troubles trophiques, 26.</s>
+        </p>
+        <p>
+          <s>Ischémie hystérique, 303.</s>
+        </p>
+        <p>
+          <s>Ischurie hystérique, 275 ; — passa-gère, 278; — permanente, 278; — Historique, 280 ; — Simulation, 281. — Elle diffère de l'ischurie calculeuse, 283. — Fait clinique. 285. — Tracé indicatif des vo-missements et des urines, 289. — Analyses chimiques, 290, 292. — Rémission des accidents, 291. — Réalité de 1' —, 293. — Bénignité relative de i' —, 295. — Gravité de l'ischurie calculeuse, 294. — Mécanisme de 1' —, 296.</s>
+        </p>
+        <p>
+          <s>ii</s>
+        </p>
+        <p>
+          <s>Langue (Contracture de la), 346.</s>
+        </p>
+        <p>
+          <s>Latéropulsion dans la paralysie agitante, 419.</s>
+        </p>
+        <p>
+          <s>Lèpre anesthésique, 31.</s>
+        </p>
+        <p>
+          <s>Lésions irritatives, 13, 17 ; — ocu-laires consécutives à l'irritation du ganglion de Gasser, 14, 17; — à la section dn nerf trijumeau, 10, 15 ; — dues à des lésions sponta-nées du nerf de la 5e paire, 17.</s>
+        </p>
+        <p>
+          <s>M</s>
+        </p>
+        <p>
+          <s>Mains (Déformation des) dans la pa-ralysie agitante, 170 ; — dans le rhumatisme, 171. (V. Griffe).</s>
+        </p>
+        <p>
+          <s>Maladie de Parkinson,note, 173,414.</s>
+        </p>
+        <p>
+          <s>Méningite ascendante purulente sim-ple ou ischorcusc, consécutive au décubitus, 89 ; — cervical chroni-que, 30.</s>
+        </p>
+        <p>
+          <s>Métallosgopie, 396.</s>
+        </p>
+        <p>
+          <s>Miracles de Saint Louis, 359; —de Saint-Médard, 303, 336 ; — de Lourdes, note, 368.</s>
+        </p>
+        <p>
+          <s>Moelle épinière (Effets de la section transversale de la), 11, 19.</s>
+        </p>
+        <p>
+          <s>Muscles (Affections trophiques des), 36 ; — dans la paralysie infantile, 68. (V. Amyotrophies, Atrophie musculaire, Myopathies, Sclé-rose en plaques.)</s>
+        </p>
+        <p>
+          <s>Myélite aiguë centrale, 65.— Dimi-nution de la contractilité électri-que, 65. — Lésions des capsules surrénales, 127. —Altérations des urines, 129. — Crises gastriques, 261.</s>
+        </p>
+        <p>
+          <s>— partielles : amyotrophie, 63 ; — traumatiques, 97 ; — spontanées, 106.</s>
+        </p>
+        <p>
+          <s>Myodynie hystérique, 323. Myopathies consécutives à des lé-sions de la moelle, 60.</s>
+        </p>
+        <p>
+          <s>N</s>
+        </p>
+        <p>
+          <s>Néphro-cystite consécutive aux lé-sions spinales, 129.</s>
+        </p>
+        <p>
+          <s>Néphrotomie, 279. — Gravité de la —, 293.</s>
+        </p>
+        <p>
+          <s>Nerfs (Ecrasement et ligature des, 54. — Excision des —, 58. — Plaques de sclérose sur les —, 194; — dilatateurs, 149. (V. Corde du Tympan) ; — facial (Paralysie du), 39; — glandulaires (Irritation des), 145 ; — sciatique (Résultat de la section du), 9; — sécréteurs (Recherches de Ludwig sur les) 141 ; — trijumeau (Résultats de la section du), 10, 15. — Expériences de Samuel, 14 ; — lésions sponta-nées du), 17 ; — trophiques, 21, 147; — origine de ces nerfs, 148. — vaso-moteurs, 133; — (Rôle des) au point de vue de la nutrition, 11, 21 ; — irritations des —, 139.</s>
+        </p>
+        <p>
+          <s>Névrite, 26, 27. — Troubles trophi-ques liés à la —, 28.</s>
+        </p>
+        <p>
+          <s>Névroglie (De la), 198.</s>
+        </p>
+        <p>
+          <s>Nitrite d'amyle, 401 ; — note, 405.</s>
+        </p>
+        <p>
+          <s>Nutrition (Influence du système ner-veux sur la), 4, 6 etpassim.</s>
+        </p>
+        <p>
+          <s>Nystagmus dans la sclérose en pla" ques, 167, 234.</s>
+        </p>
+        <p>
+          <s>O</s>
+        </p>
+        <p>
+          <s>Oblitération calculeuse des uretè rcs, 283. — Durée, 284. — Gravité, 293.</s>
+        </p>
+        <p>
+          <s>Oligurie hystérique, 278. Os (Affections trophiques des), 25, 32 Ovaire (Siège de 1'), 327. (V. Com-pression, Hyperesthésie ova-rienne.)</s>
+        </p>
+        <p>
+          <s>Ovarie hystérique, 286, 304, 320. P</s>
+        </p>
+        <p>
+          <s>Paralysie agitante, 155, 317, 409, 414. —Historique, 160. — Nature, 161. — Caractères généraux de la —, 161. — Début, ses modes, 164, 166, 410, — Symptômes, période d'état, 166, 410. — Caractères du tremblement, 166. — Ecriture, 167, 421. — Attitude du corps dans la —, 169, 410, 412; — sa valeur dia-gnostique, 172. — P. agitante sans tremblement, 172, 414. — Sensa-tions pénibles dans la —. 176, 413, — Période terminale, 179. — Ter-minaisons, 180. — Anatomie pa-thologique, 180. — Physiologie pa-thologique, 182.—Causes,462, 182, 184, 409. — Traitement, 186. — Influence des lésions traumatiques, 457. (V. Latéropuision, Parole, Propulsion, Rétropulsion.) —</s>
+        </p>
+        <p>
+          <s>— bulbaire, symptomatique de la, sclérose en plaques, 263.</s>
+        </p>
+        <p>
+          <s>— consécutive à la lésion des nerfs. 46, 48.</s>
+        </p>
+        <p>
+          <s>— générale progiuessive ; caractères qui la rapprochent de la sclérose en plaques, 223, 236. (V. Attaques</s>
+        </p>
+        <p>
+          <s>apoplectiformes. )</s>
+        </p>
+        <p>
+          <s>— générale spinale de l'adulte, 71 ; ses analogies et ses différences avec la paralysie infantile, 71. — hystérique, 287, 351 et passim.</s>
+        </p>
+        <p>
+          <s>— infantile, 46, 50. — lésions ana-tomiques, 72 ; — labio-glosso-la-</s>
+        </p>
+        <p>
+          <s>ryngée : lésions des cellules mo-trices, 72, 263, 236.</s>
+        </p>
+        <p>
+          <s>— pseudo-hypertrophique. 46.</s>
+        </p>
+        <p>
+          <s>— rhumatismale (Etat de la contrac-tilité musculaire dans la), 39.</s>
+        </p>
+        <p>
+          <s>Paraplégie traumatique (Altération des urines dans la), 128. (V. Hé-miparaplégie. )</s>
+        </p>
+        <p>
+          <s>Parésie des membres inférieurs dans la scélrose en plaques, 239. — Rémissions, 240.</s>
+        </p>
+        <p>
+          <s>Parole (Troubles de la) dans la pa-ralysie agitante, 168 ; — dans la sclérose en plaques, 235.</s>
+        </p>
+        <p>
+          <s>Peau 'Troubles trophiques de la), 22 ; — lisse, 25, 32.</s>
+        </p>
+        <p>
+          <s>Petit mal épileptique, 375.</s>
+        </p>
+        <p>
+          <s>Pharynx (Paralysie du), 346.</s>
+        </p>
+        <p>
+          <s>Phlegmon (Faux), 25, 86.</s>
+        </p>
+        <p>
+          <s>Pied (Déformation du), dans la para-lysie agitante, 161. (V. Trépida-tion,</s>
+        </p>
+        <p>
+          <s>Pied bot hystérique, 360, 365. Pouls dans les attaques apoplecti-ques, 254, 256. Préambule, 1.</s>
+        </p>
+        <p>
+          <s>Propulsion dans la paralysie agi-tante, 163 ; — note, 173, 175, 411. Putamen, 313.</s>
+        </p>
+        <p>
+          <s>R</s>
+        </p>
+        <p>
+          <s>Reins (Lésions des) consécutives à la section des nerfs, 128, 129. — Contradictions expérimentales, 19.</s>
+        </p>
+        <p>
+          <s>Rémission, 166, 240, 259.</s>
+        </p>
+        <p>
+          <s>Rétention d'urine chez les hystéri-ques, 277, 353, 356.</s>
+        </p>
+        <p>
+          <s>Rétropuesion dans la paralysie agi-tante, 163 ; note, 173 ; 175, 411.</s>
+        </p>
+        <p>
+          <s>Rigidité des membres et du cou dans la paralysie agitante, 159.</s>
+        </p>
+        <p>
+          <s>S</s>
+        </p>
+        <p>
+          <s>Salivation dans la paralysie agi-tante, 169. Sclérodermie, 25.</s>
+        </p>
+        <p>
+          <s>Sclérose fasciculée, 60 ; — descen-dante, 251 : — latérale dans l'hys-térie, 362 ; — postérieure, ccmpli-quant la sclérose en plaques, 231, 242, note, 264. (V. Ataxie locomo-t r i c e ;. En p la q u es dissémiu ées .(Lé-sions des cellules motrices dans la—), 72 ; — et paralysie agitante. 159, — Historique, 190. — Anato-mie macroscopique, 192. — Distri-bution des plaques dans le cerveau, 193 : — dans la moelle, 193 ; — sur les nerfs, 195. — Aspect des plaques de sclérose, 194. — Histo-logie, 195, 205. — Altérations des vaisseaux dans la —, 211. — Na-ture de la lésion, 219. — Forme spinale, 194, 222. — Forme cépha-lique ou bulbaire, 194, 222. — Forme cérébro-spinale, 1Ï5, 222.</s>
+        </p>
+        <p>
+          <s>— Causes d'erreurs de diagnostic, 223. — Diplopie, amblyopie, 233.</s>
+        </p>
+        <p>
+          <s>— Symptômes céphaliques, 233</s>
+        </p>
+        <p>
+          <s>— Nystagmus, 234. — Vertiges 236. — Faciès, 237. — Symptômes psychiques, 237. — Etat des mem-bres inférieurs, 239. — Symptô-mes insolites, 241. — Ataxie, 212. Atrophie musculaire, 241. — Con-tracture des membres, 245. — Epi-lepsie spinale, 245, 247. — Atta-ques apoplectiformes, 249. — Pé-riodes, 257. — Rémissions, 259,</s>
+        </p>
+        <p>
+          <s>— Crises gastriques, 261. — Mala-dies intercurrentes, 263. — Para-lysie bulbaire, 283. — Durée, 266. Physislogie pathologique, 266. — Causes, 268. — Influence des mala-dies aiguës, note, 259, 270. — Pro-nostic, 271, 423.-Traitement,271.</s>
+        </p>
+        <p>
+          <s>— Cas de guérison, 422. — Forme fruste de la —, 423.</s>
+        </p>
+        <p>
+          <s>Secours (Des) chez les convulsion-naires, 335.</s>
+        </p>
+        <p>
+          <s>Sections des nerfs ; complètes ou incomplètes, 22, 26, 36, 53, 213.</s>
+        </p>
+        <p>
+          <s>Simulation (De la) dans l'hystérie, 281.</s>
+        </p>
+        <p>
+          <s>Somnambulisme, 447.</s>
+        </p>
+        <p>
+          <s>T</s>
+        </p>
+        <p>
+          <s>Tarentisme, 342.</s>
+        </p>
+        <p>
+          <s>Température (Signification de l'a-baissement de la) dans l'apoplexie</s>
+        </p>
+        <p>
+          <s>cérébrale, 94. — Abaissement de la, — accompagnant les lésions irri-tatives des nerfs, 139. — Abaisse-ment de la — dépendant de l'irrita-tion du grand sympathique cervical 139; —dans la paralysie agitante, 178 ;—dans les attaques apoplecti-formes, 254 ; — dans les attaques d'hystéro-épilepsie, 376 ; — dans Y état de mal épileptique, 377, 378 ;</s>
+        </p>
+        <p>
+          <s>— dans M état de mal hystéro-épi-leptique, 382.</s>
+        </p>
+        <p>
+          <s>Torticolis hystérique, 451.</s>
+        </p>
+        <p>
+          <s>Tuermoanesthésie, 308, 308, 395.</s>
+        </p>
+        <p>
+          <s>Tremblement (Du) en général, 156,</s>
+        </p>
+        <p>
+          <s>— Différence selon l'état de repos ou d'activité, 157. — Variétés, 157.</s>
+        </p>
+        <p>
+          <s>— Historique, 158 : — dans la pa-ralysie agitante, 166, 229 : — dans la sclérose en plaques, 226. — In-fluence des mouvements, 227. — Caractères qui le distinguent de la chlorée, 280, — de l'incoordination motrice, 230.</s>
+        </p>
+        <p>
+          <s>Trépidation provoquée" du pied dans l'hystérie, 350 ; — dans la sclérose des cordons latéraux, la sclérose en plaques, la sclérose descendante, 350 (Note).</s>
+        </p>
+        <p>
+          <s>Trismus, 287.</s>
+        </p>
+        <p>
+          <s>Troubles trophiques. Siège, 4. — Différences qui les séparent des lésions passives, 8 ; — consécu-tifs aux lésions des nerfs périphé-riques, 5 ; — causes traumatiques, 25. — Lésions spontanées, 22. — Partie théorique, 131. — Théorie vaso-motrice, 133. — Théorie de l'attraction, 144. — Théorie des nerfs trophiques, 147. — Théorie de M. Samuel, 147. — Critique,</s>
+        </p>
+        <p>
+          <s>150. —Conclusions, 151. — Dans la sclérose en plaques, 263.</s>
+        </p>
+        <p>
+          <s>Tubercule de la moelle, 112.</s>
+        </p>
+        <p>
+          <s>Tympanisme, 286, 353, 356.</s>
+        </p>
+        <p>
+          <s>U</s>
+        </p>
+        <p>
+          <s>Urée dans les vomissements hysté-riques, 279, 290, 292 ; — dans les évacuations alvines consécutives à la néphrotomie, 279. — Influence de la pression sur la production do l'urée, 297.</s>
+        </p>
+        <p>
+          <s>Uretères (Contracture spasmodi-que des), 297, (V. Oblitérration.)</s>
+        </p>
+        <p>
+          <s>Urticaire dans l'ataxie locomotrice, 175.</s>
+        </p>
+        <p>
+          <s>V</s>
+        </p>
+        <p>
+          <s>Vertiges daus la sclérose en plaques, .236, 258 ; — épileptiques, 375.</s>
+        </p>
+        <p>
+          <s>Vision (Troubles delà) dansl'hvsté-rie, 427. — Historique, 427'. — Caractères, 428. — Mobilité, 429.</s>
+        </p>
+        <p>
+          <s>— Observations, 430, 433. Vomissements hystériques, 289, 296,</s>
+        </p>
+        <p>
+          <s>— urémiques, 296;— de sang, 353.</s>
+        </p>
+        <p>
+          <s>Z</s>
+        </p>
+        <p>
+          <s>Zona, 23, 30, 32 ; — dans l'ataxie lo-comotrice, 76 : — dépendant de lé-sions partielles de l'encéphale, 81 ;</s>
+        </p>
+        <p>
+          <s>— avec modification du derme, 110. — Elévation de la température au niveau de l'éruption, 137.</s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
