@@ -31,3 +31,11 @@ The `script/tfidf_bm25_bert.py` Python script generates the CSV file(s) with the
 ## Cite
 
 Ljudmila Petkovic, Motasem Alrahabi, Glenn Roe, *Tracking the circulation of Jean-Martin Charcot’s medical discours: first observations*, 2023, Github, https://github.com/ljpetkovic/Charcot_circulations
+
+---
+
+## Licence
+
+![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115237678-2150d080-a11d-11eb-903e-5a26587e12e1.png)
+
+
