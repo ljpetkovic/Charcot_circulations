@@ -17,7 +17,7 @@ The Charcot Collection corpus (`corpus`) is divided into two sub-corpora:
 
 ## Concepts
 
-* `concepts/concepts.pdf`: the list of relevant concepts present in the Charcot's medical discourse, selected from the [index](https://patrimoine.sorbonne-universite.fr/viewer/3468/?offset=1#page=501&viewer=picture&o=&n=0&q=) of an edition of the complete works of Charcot
+* the list of relevant concepts present in the Charcot's medical discourse, selected from the [index](https://patrimoine.sorbonne-universite.fr/viewer/3468/?offset=1#page=501&viewer=picture&o=&n=0&q=) of an edition of the complete works of Charcot
 * `concepts/concepts.xml`: the list of mentioned concepts converted from the PDF to the XML file using the converter [Teinte](https://obtic.huma-num.fr/teinte/)
 
 ---
