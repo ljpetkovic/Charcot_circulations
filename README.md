@@ -26,3 +26,8 @@ The Charcot Collection corpus (`corpus`) is divided into two sub-corpora:
 
 The `script/tfidf_bm25_bert.py` Python script generates the CSV file(s) with the scores for each concept across the two corpora, based on the TF-IDF, BM-25 and BERTScore metrics. By discarding generic terms, like *cerveau* (brain), *os* (bone), etc., we have retained a restricted list of terms or expressions popularised by Charcot, such as *hystérie* (hysteria), *sclérose latérale* (lateral sclerosis), etc. 
 
+---
+
+## Cite
+
+Ljudmila Petkovic, Motasem Alrahabi, Glenn Roe, *Tracking the circulation of Jean-Martin Charcot’s medical discours: first observations*, 2023, Github, https://github.com/ljpetkovic/Charcot_circulations
