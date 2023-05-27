@@ -21,13 +21,6 @@ if __name__ == "__main__":
     from transformers import BertTokenizer, BertModel
     import pandas as pd
 
-    regex_frequencies = {}
-    regex_tf = {}
-    regex_idf = {}
-    regex_tfidf = {}
-    regex_bm25 = {}
-    regex_bert = {}
-
     def read_terms(my_terms):
         with open(my_terms, "r", encoding="utf-8") as regex_file:
             list_terms = [it.lower().strip() for it in regex_file]
@@ -54,7 +47,10 @@ if __name__ == "__main__":
             return model(**term_input).last_hidden_state[:, 0, :]
 
     def calculate_similarity(list_terms, text):
-        device = torch.device("cuda") if torch.cuda.is_available() else device = torch.device("cpu")
+        if torch.cuda.is_available():        
+          device = torch.device("cuda")
+        else:
+          device = torch.device("cpu")
         # Initialize the BERT tokenizer and model for French:
         tokenizer = BertTokenizer.from_pretrained("bert-base-multilingual-uncased")
         model = BertModel.from_pretrained("bert-base-multilingual-uncased")
@@ -71,9 +67,8 @@ if __name__ == "__main__":
             for term in list_terms:
                 similarity = torch.cosine_similarity(embeddings, embedding_term(term, tokenizer, model))
                 cossim[term] = similarity.item()
-        return cossim
+        df = pd.DataFrame.from_dict({'term': list(cossim.keys()), 'score': list(cossim.values())})
+        df.to_excel(f'results_BERT_{corpus}.xlsx', index = None, header= True)
 
-    cossim = calculate_similarity(list_terms, text)
-    df = pd.DataFrame.from_dict({'term': list(cossim.keys()), 'score': list(cossim.values())})
-    df.to_excel(f'results_BERT_{corpus}.xlsx', index = None, header= True)
+    calculate_similarity(list_terms, text)
 
