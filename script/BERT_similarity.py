@@ -54,12 +54,12 @@ if __name__ == "__main__":
             return model(**term_input).last_hidden_state[:, 0, :]
 
     def calculate_similarity(list_terms, text):
+        device = torch.device("cuda") if torch.cuda.is_available() else device = torch.device("cpu")
         # Initialize the BERT tokenizer and model for French:
         tokenizer = BertTokenizer.from_pretrained("bert-base-multilingual-uncased")
         model = BertModel.from_pretrained("bert-base-multilingual-uncased")
         cossim = {}
-        # Calculate the BERT score for each term:
-        device = "cuda" if torch.cuda.is_available() else "cpu"
+        # Calculate the BERT score for each term
         model.to(device)
         model.eval()
         with torch.no_grad():
