@@ -1,4 +1,4 @@
-# Tracking the circulation of Jean-Martin Charcot’s medical discours: first observations
+# Tracking the circulation of Jean-Martin Charcot’s medical discourse: first observations
 
 This repository was created in order to make available the OCRed corpus of the [Charcot Collection](https://patrimoine.sorbonne-universite.fr/collection/Fonds-Charcot)  and Python script for identifying relevant medical concepts in them according to three different weighting measures.
 
