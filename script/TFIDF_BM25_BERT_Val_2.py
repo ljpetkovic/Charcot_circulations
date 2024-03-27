@@ -7,7 +7,7 @@ from transformers import BertTokenizer, BertModel
 import pandas as pd #j'ai rajouté ma librairie préferée, elle est plus rapide que 'csv' pour génerer les fichiers
 # et surtout ici je préfère génerer les fichiers excel pour facilité la lecture
 
-text_folder_path = "/home/ljudmila/Dropbox/comms/Humanistica2023/Charcot_circulations/input/Charcot/"
+text_folder_path = "/home/ljudmila/Dropbox/comms/Humanistica2023/Charcot_circulations/input/"
 regex_file_path = "/home/ljudmila/Dropbox/comms/Humanistica2023/Charcot_circulations/regex.txt"
 corpus = 'Charcot' #changer sur 'autres', si l'autre corpus est analysé
 
@@ -63,33 +63,31 @@ text = read_text(text_folder_path)
 len_text = len([x for x in text.split()])
 
 def create_regex_dict(regex_patterns_double, text):
-    # Function body remains the same, now uses the passed `text`
+    # Initialize a dictionary to count occurrences
     regex_count = {}
+
+    # Tokenize the text to avoid partial matches (like "os" in "fibrOSe")
+    words_in_text = set(text.split())
+
+    # Iterate through each pattern
     for pattern in regex_patterns_double:
-        # Count occurrences of each pattern
-        count = text.split().count(pattern)
+        # Initialize or update the count for each regex pattern
+        # Note: This simplistic approach may not match complex regex patterns
+        #       and is designed for direct word matches.
+        count = sum(1 for word in words_in_text if re.fullmatch(pattern, word))
+        
+        # Clean up the pattern name for use as a dictionary key
+        clean_pattern_name = pattern.replace('(', '').replace(')', '').replace('(x)?', 'x').replace('|des', '').replace('(es)?', 'es').replace('|aux', '').replace('?', '').replace('|maux', '')
 
-        # Initialize regex_name early to avoid UnboundLocalError
-        regex_name = pattern
-
-        # Adjust regex_name based on presence of spaces (indicating potential plural form)
-        if ' ' in pattern:
-            regex_name = ' '.join([x[:-1] if x.endswith('s') else x for x in pattern.split(' ')])
-        # Handle cases where the pattern ends with 's' and the singular form is already a key
-        elif pattern.endswith('s') and pattern[:-1] in regex_count:
-            regex_name = pattern[:-1]
-        # Additional cleanup on regex_name
-        regex_name = regex_name.replace('(', '').replace(')', '').replace('(x)?', 'x').replace('|des', '').replace('(es)?', 'es').replace('|aux', '').replace('?', '').replace('|maux', '')
-
-        # Add or update the count for this regex_name in the dictionary
-        regex_count[regex_name] = regex_count.get(regex_name, 0) + count
+        # Accumulate counts for singular/plural forms or set directly
+        regex_count[clean_pattern_name] = regex_count.get(clean_pattern_name, 0) + count
 
     return regex_count
 
 
+
 #j'ai créé le dictionnaire des occurances des terms
 regex_count = create_regex_dict(regex_patterns_double, text)
-
 
 '''
 # Loop through each file in the text folder and count the frequency of each regex pattern
@@ -148,44 +146,36 @@ def calcul_tfidf(regex_count, len_text):
 def normalize(regex_tfidf):
     mi = min(regex_tfidf.values())
     ma = max(regex_tfidf.values())
-    
-    # If all values are the same, normalization doesn't change the distribution
-    if mi == ma:
-        return regex_tfidf
+
+    # If all values are the same (min = max), normalization isn't meaningful.
+    # You can choose to return the original scores or handle differently.
+    if ma - mi == 0:
+        return {k: v for k, v in regex_tfidf.items()}
 
     regex_norm = {}
     for k, v in regex_tfidf.items():
-        normalized_score = 2 * (v - mi) / (ma - mi) - 1
-        regex_norm[k] = normalized_score
+        regex_norm[k] = 2 * (v - mi) / (ma - mi) - 1
     return regex_norm
 
+# Correct the variable name (there was a typo in your code)
+regex_tfidf = calcul_tfidf(regex_count, len_text)
+regex_tfidf_normalized = normalize(regex_tfidf)
 
-regex_tdidf = normalize(calcul_tfidf(regex_count, len_text))
-df = pd.DataFrame.from_dict({'term': list(regex_tfidf.keys()), 'score': list(regex_tfidf.values())})
-df.to_excel(f'results_TF_IDF_{corpus}.xlsx', index = None, header= True)
+df = pd.DataFrame.from_dict({'term': list(regex_tfidf_normalized.keys()), 'score': list(regex_tfidf_normalized.values())})
+df.to_excel(f'results_TF_IDF_{corpus}.xlsx', index=None, header=True)
+
 
 def calcul_bm25(regex_count, len_text):
-    regex_bm25 = {}
     k1 = 1.2
     b = 0.75
-    # Normally, you'd calculate IDF using the number of documents containing the term,
-    # but for a single document scenario, consider adjusting this part
     for k, v in regex_count.items():
-        # Assuming 'len_text' is the total number of tokens in the document
-        # and 'v' is the term frequency for term 'k'
-        idf = math.log((1 + 0.5) / (v + 0.5)) + 1  # Simplified IDF for demonstration; adjust as needed
-        
-        # Avoid division by zero by ensuring 'len_text' is not 0
-        if len_text > 0:
-            dl = len_text  # Document length is 'len_text'
-            avdl = len_text  # For a single document, dl = avdl
-            bm25_score = idf * ((v * (k1 + 1)) / (v + k1 * (1 - b + b * (dl / avdl))))
+        if v != 0:
+            idf = v / len_text * math.log(1 / 2)
         else:
-            bm25_score = 0  # Or handle as appropriate for your scenario
-        
-        regex_bm25[k] = bm25_score
+            idf = 0
+        regex_bm25[k] = idf * v / len_text * (k1 + 1) / (v /len_text + k1 * (1 - b + b)) #j'ai laissé les valeurs ici pour que ce soit plus explicite, mais normalement les coefficients 'b' s'enlèvent
+        #dnas notre cas d = avdl, donc ces valeurs s'enlévent mathématiquement
     return regex_bm25
-
 
 regex_bm25 = normalize(calcul_bm25(regex_count, len_text))
 df = pd.DataFrame.from_dict({'term': list(regex_bm25.keys()), 'score': list(regex_bm25.values())})
@@ -260,23 +250,3 @@ with open(output_file_path, "w", encoding="utf-8", newline="") as output_file:
         bert_score = round(regex_bert.get(regex_name, 0), 2)
         csv_writer.writerow([regex_name, frequency, tf_idf, bm25, bert_score])
     print(f"Wrote {len(regex_frequencies)} regex frequencies, TF-IDF, BM25, and BERT scores to {output_file_path}")
-    
-print("Text length (tokens):", len_text)
-print("First few regex patterns:", regex_patterns_double[:5])
-print("Sample counts (first few):", {k: regex_count[k] for k in list(regex_count)[:5]})
-
-# After calculations
-print("Sample TF-IDF scores (first few):", {k: regex_tfidf[k] for k in list(regex_tfidf)[:5]})
-print("Sample BM25 scores (first few):", {k: regex_bm25[k] for k in list(regex_bm25)[:5]})
-
-text = read_text(text_folder_path)
-print("Sample text:", text[:500])  # Print the first 500 characters of the processed text
-
-sample_pattern = 'rein'  # Example pattern
-print("Occurrences of 'rein':", text.split().count(sample_pattern))
-
-print(os.path.abspath(text_folder_path))
-
-
-
-
