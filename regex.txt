@@ -1,3 +1,4 @@
+Abasie(s)?
 Achromatopsie(s)? hystérique(s)?
 Amblyopie(s)? hystérique(s)?
 Amyotrophie(s)? protopathique(s)?
@@ -5,12 +6,16 @@ Amyotrophie(s)? symptomatique(s)?
 Analgésie(s)?
 Anesthésie(s)?
 Angioneuroses(s)?
+Aphasie(s)?
 Apoplexie(s)? spinale(s)?
 Arthrite(s)? déformante(s)?
 Arthropathie(s)? de(s)? ataxiques(s)?
+Arthropathie(s)? tabétique(s)?
 Articulations(s)?
+Astasie(s)?
 Ataxie(s)? locomotrice(s)?
-Atrophie(s)? musculaire(s)?
+Athétose(s)?
+Atrophie(s)? musculaire(s)? progressive(s)?
 Atrophie(s)? progressive(s)?
 Attaque(s)?-Accès
 Attaque(s)? apoplectiforme(s)?
@@ -26,11 +31,13 @@ Capsule(s)? surrénale(s)?
 Catalepsie(s)?
 Cellule(s)? nerveuse(s)?
 Cerveau(s)?
+Charcot-Marie-Tooth
 Chloroforme(s)?
 Chorée(s)?
 Chorée(s)? rythmique(s)? hystérique(s)?
 Cicatrice(s)? vicieuse(s)?
 Cirrhose(s)? de(s)? muscle(s)?
+Clonus
 Cœlialgie(s)?
 Compression(s)? de(s)? l'ovaire(s)?
 Congestion(s)?
@@ -59,6 +66,7 @@ Ecriture(s)?
 Ecthyma(s)?
 Electro-Diagnostic(s)?
 Embolie(s)?
+Embarras parole
 Encéphalite(s)?
 Endocardite(s)?
 Epidémie(s)?
@@ -90,6 +98,7 @@ Hémiplégie(s)?
 Histologie(s)?
 Hypérémié(s)?
 Hyperesthésie(s)? ovarienne(s)?
+Hypnose(s)?
 Hystérie(s)?
 Hystérie(s)? épileptiforme(s)?
 Hystérie(s)? ovarienne(s)?
@@ -111,6 +120,7 @@ Latéropulsion(s)?
 Lèpre(s)?
 Lésion(s)?
 Lésion(s)? oculaire(s)?
+Localisation(s)? cérébrale(s)?
 Main(s)?
 Maladie(s)? de(s)? Parkinson
 Méningite(s)? ascendante(s)?
@@ -177,7 +187,7 @@ Salivation(s)?
 Sclérodermie(s)?
 Sclérose(s)? fasciculée(s)?
 Sclérose(s)? descendante(s)?
-Sclérose(s)? latérale(s)?
+Sclérose(s)? latérale(s)? amyotrophique(s)?
 Sclérose(s)? postérieure(s)?
 Sclérose(s)? en plaque(s)? disséminées(s)?
 Secours
@@ -186,10 +196,12 @@ Simulation(s)?
 Somnambulisme(s)?
 Tarentisme(s)?
 Température(s)?
+Tic(s)?
 Torticoli(s)?
 Thermoanesthésie(s)?
 Tremblement(s)?
 Trépidation(s)?
+Trépidation(s)? épileptoïde(s)? du pied
 Trismus
 Trouble(s)? trophiques(s)?
 Tubercule(s)? de(s)? la moëlle(s)?
