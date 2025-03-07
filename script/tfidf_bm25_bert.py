@@ -7,10 +7,10 @@ from bert_score import score
 # Define the path to the folder of UTF-8 text files and the path to the regex file:
 # text_folder_path = "C:/Users/alrahabi/Documents/workspace/Python/Compare/input/"
 # Change the path accordingly: ".../corpus_Charcot" or ".../corpus_Autres"
-text_folder_path = "/home/ljudmila/Bureau/Charcot_circulations/corpus/corpus_Charcot"
+text_folder_path = "/home/ljudmila/Dropbox/Humanistica2023/Charcot_circulations/input/corpus_Charcot"
 
 # regex_file_path =  "C:/Users/alrahabi/Documents/workspace/Python/Compare/regex.txt"
-regex_file_path =  "/home/ljudmila/Bureau/Charcot_circulations/regex.txt"
+regex_file_path =  "/home/ljudmila/Dropbox/Humanistica2023/Charcot_circulations/regex.txt"
 
 # Define a dictionary to hold the regex frequencies, tf-idf, bm25 and bert values:
 regex_frequencies = {}
@@ -75,7 +75,7 @@ for filename in os.listdir(text_folder_path):
 
 # Write the regex frequencies, TF, IDF, BM25, and BERT scores to a CSV file:
 # output_file_path = "C:/Users/alrahabi/Documents/workspace/Python/Compare/output.csv"
-output_file_path = "/home/ljudmila/Bureau/Charcot_circulations/csv/output_Charcot.csv"
+output_file_path = "/home/ljudmila/Dropbox/Humanistica2023/Charcot_circulations/csv/output_Charcot.csv"
 with open(output_file_path, "w", encoding="utf-8", newline="") as output_file:
     csv_writer = csv.writer(output_file)
     csv_writer.writerow(["Regex", "Frequency", "TF-IDF", "BM25", "BERT"])
