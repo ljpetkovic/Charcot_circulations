@@ -4,8 +4,8 @@ import csv
 import math
 
 # Define the path to the folder of UTF-8 text files and the path to the regex file
-text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/ObTIC/comms/2023/Humanistica2023/scripts/Compare/input_autres"
-regex_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/ObTIC/comms/2023/Humanistica2023/scripts/Compare/regex.txt"
+text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/ObTIC/CHARCOT/Charcot_circulations/input/corpus_Autres/"
+regex_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/ObTIC/CHARCOT/Charcot_circulations/concepts/liste_concepts_regex.txt"
 
 # Define a dictionary to hold regex frequencies, TF, IDF, TF-IDF, and BM25 values
 regex_frequencies = {}
@@ -86,7 +86,7 @@ regex_bm25_norm = {
 }
 
 # Write the regex frequencies, TF-IDF, Normalized TF-IDF, and BM25 weights to a CSV file
-output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/ObTIC/comms/2023/Humanistica2023/scripts/Compare/test_output_autres.csv"
+output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/ObTIC/CHARCOT/Charcot_circulations/output_autres_liste_elargie.csv"
 
 with open(output_file_path, "w", encoding="utf-8", newline="") as output_file:
     csv_writer = csv.writer(output_file)
