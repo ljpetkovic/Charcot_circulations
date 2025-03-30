@@ -199,8 +199,7 @@
     {
         "file": "CL_000007_001_texte.txt.xml",
         "authors": [
-            "Londe, Albert",
-            "Gauthier-Villars"
+            "Londe, Albert"
         ],
         "title": "La photographie médicale : application aux sciences médicales et physiologiques",
         "date": "1893",
@@ -665,9 +664,9 @@
     },
     {
         "file": "CH_00000089_texte.txt.xml",
-        "authors": [],
-        "title": null,
-        "date": null,
+        "authors": [Bérillon, Edgar],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 13",
+        "date": "1898-1899",
         "token_count": 196602
     },
     {
@@ -937,8 +936,8 @@
         "authors": [
             "Bérillon, Edgar"
         ],
-        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 5",
-        "date": "1890-1891",
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 8",
+        "date": "1893-1894",
         "token_count": 199190
     },
     {
