@@ -1,0 +1,1963 @@
+[
+    {
+        "file": "CN_000044_016_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 16, n° 46-48] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1888",
+        "token_count": 218916
+    },
+    {
+        "file": "CN_000070_012_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 12, n° 67-72] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1901",
+        "token_count": 250842
+    },
+    {
+        "file": "CN_000052_024_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 24, n° 70-72] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1892",
+        "token_count": 253978
+    },
+    {
+        "file": "CN_000076_018_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 18, n° 103-108] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1904",
+        "token_count": 245612
+    },
+    {
+        "file": "CN_000067_009_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 09, n° 49-54] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1900",
+        "token_count": 268418
+    },
+    {
+        "file": "CN_000032_004_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 04, n° 10-12] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1882",
+        "token_count": 169894
+    },
+    {
+        "file": "CN_000061_003_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 03, n° 13-18] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1897",
+        "token_count": 242603
+    },
+    {
+        "file": "CN_000065_007_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 07, n° 37-42] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1899",
+        "token_count": 245271
+    },
+    {
+        "file": "CL_000001_008_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 8. Maladies infectieuses, affections de la peau, kystes hydatiques, estomac et rate, thérapeutique",
+        "date": "1889",
+        "token_count": 167498
+    },
+    {
+        "file": "CN_000069_011_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 11, n° 61-66] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1901",
+        "token_count": 265314
+    },
+    {
+        "file": "CN_000059_001_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 01, n° 01-06] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1896",
+        "token_count": 240449
+    },
+    {
+        "file": "CN_000046_018_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 18, n° 52-54] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1889",
+        "token_count": 198024
+    },
+    {
+        "file": "CN_000074_016_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 16, n° 91-96] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1903",
+        "token_count": 254397
+    },
+    {
+        "file": "CN_000040_012_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 12, n° 34-36] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1886",
+        "token_count": 183053
+    },
+    {
+        "file": "CN_000062_004_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 04, n° 19-24] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1897",
+        "token_count": 260016
+    },
+    {
+        "file": "CN_000078_020_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 20, n° 115-120] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1905",
+        "token_count": 237686
+    },
+    {
+        "file": "CN_000051_023_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 23, n° 67-69] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1892",
+        "token_count": 202726
+    },
+    {
+        "file": "CL_000001_006_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard",
+            "Charcot, Jean-Martin",
+            "Sevestre, Louis Arthur",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Leçons sur les maladies du foie et des reins. Tome 6",
+        "date": "1891",
+        "token_count": 159395
+    },
+    {
+        "file": "CN_000031_003_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 03, n° 07-09] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1882",
+        "token_count": 157476
+    },
+    {
+        "file": "CN_000057_029_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 29, n° 95-100] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1895",
+        "token_count": 242152
+    },
+    {
+        "file": "CN_000073_015_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 15, n° 85-90] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1903",
+        "token_count": 282033
+    },
+    {
+        "file": "CL_000001_002_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 2. Leçons sur les maladies du système nerveux",
+        "date": "1886",
+        "token_count": 192947
+    },
+    {
+        "file": "CN_000037_009_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 09, n° 25-27] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1885",
+        "token_count": 191466
+    },
+    {
+        "file": "CL_000005_001_texte.txt.xml",
+        "authors": [
+            "Guinon, Georges",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Clinique des maladies du système nerveux : leçons du professeur, mémoires, notes et observations : parus pendant les années 1889-90 et 1890-91. Tome 1",
+        "date": "1892",
+        "token_count": 162512
+    },
+    {
+        "file": "CN_000039_011_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 11, n° 31-33] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1886",
+        "token_count": 197029
+    },
+    {
+        "file": "CN_000043_015_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 15, n° 43-45] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1888",
+        "token_count": 210025
+    },
+    {
+        "file": "CL_000001_005_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard",
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 5. Maladies des poumons et du système vasculaire",
+        "date": "1888",
+        "token_count": 235180
+    },
+    {
+        "file": "CL_000005_002_texte.txt.xml",
+        "authors": [
+            "Guinon, Georges",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Clinique des maladies du système nerveux : leçons du professeur, mémoires, notes et observations : parus pendant les années 1889-90 et 1890-91. Tome 2",
+        "date": "1893",
+        "token_count": 191190
+    },
+    {
+        "file": "CL_000001_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 1. Leçons sur les maladies du système nerveux",
+        "date": "1892",
+        "token_count": 193105
+    },
+    {
+        "file": "CN_000055_027_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 27, n° 83-88] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1894",
+        "token_count": 282601
+    },
+    {
+        "file": "CN_000035_007_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 07, n° 19-21] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1884",
+        "token_count": 183645
+    },
+    {
+        "file": "CN_000048_020_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 20, n° 58-60] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1890",
+        "token_count": 201754
+    },
+    {
+        "file": "CL_000004_001_texte.txt.xml",
+        "authors": [
+            "Richer, Paul",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Études cliniques sur l'hystéro-épilepsie, ou Grande hystérie",
+        "date": "1881",
+        "token_count": 359652
+    },
+    {
+        "file": "CL_000001_004_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard",
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 4. Leçons sur les maladies du système nerveux",
+        "date": "1893",
+        "token_count": 139088
+    },
+    {
+        "file": "CL_000009_002_texte.txt.xml",
+        "authors": [
+            "Colin, Henri",
+            "Charcot, Jean-Martin",
+            "Charcot, Jean-Baptiste"
+        ],
+        "title": "Leçons du Mardi à la Salpêtrière. Policlinique 1888-1889",
+        "date": "1889",
+        "token_count": 269068
+    },
+    {
+        "file": "CN_000063_005_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 05, n° 25-30] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1898",
+        "token_count": 254523
+    },
+    {
+        "file": "CN_000079_021_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 21, n° 121-126] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1906",
+        "token_count": 228892
+    },
+    {
+        "file": "CN_000036_008_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 08, n° 22-24] : revue des maladies nerveuses et mentales",
+        "date": "1884",
+        "token_count": 187544
+    },
+    {
+        "file": "CN_000056_028_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 28, n° 89-94] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1894",
+        "token_count": 264965
+    },
+    {
+        "file": "CN_000072_014_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 14, n° 79-84] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1902",
+        "token_count": 247303
+    },
+    {
+        "file": "CN_000030_002_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 02, n° 05-06] : revue trimestrielle des maladies nerveuses et mentales",
+        "date": "1881",
+        "token_count": 139034
+    },
+    {
+        "file": "CN_000080_022_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 22, n° 127-132] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1906",
+        "token_count": 217906
+    },
+    {
+        "file": "CN_000050_022_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 22, n° 64-66] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1891",
+        "token_count": 205548
+    },
+    {
+        "file": "CN_000034_006_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 06, n° 16-18] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1883",
+        "token_count": 233640
+    },
+    {
+        "file": "CN_000054_026_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 26, n° 77-82] : revue des maladies nerveuses et mentales",
+        "date": "1893",
+        "token_count": 256423
+    },
+    {
+        "file": "CN_000042_014_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 14, n° 40-42] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1887",
+        "token_count": 197160
+    },
+    {
+        "file": "CN_000058_030_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 30, n° 101-106] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1895",
+        "token_count": 241618
+    },
+    {
+        "file": "CN_000038_010_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 10, n° 28-30] : revue des maladies nerveuses et mentales",
+        "date": "1885",
+        "token_count": 208340
+    },
+    {
+        "file": "CL_000001_003_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard",
+            "Charcot, Jean-Martin",
+            "Gilles de la Tourette, Georges",
+            "Babinski, Joseph",
+            "Féré, Charles",
+            "Bourneville, Désiré Magloire",
+            "Bernard, Désiré"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 3. Leçons sur les maladies du système nerveux",
+        "date": "1890",
+        "token_count": 182542
+    },
+    {
+        "file": "CN_000082_002_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [3ème série, tome 02, n° 07-12] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1907",
+        "token_count": 243008
+    },
+    {
+        "file": "CN_000049_021_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 21, n° 61-63] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1891",
+        "token_count": 216741
+    },
+    {
+        "file": "CN_000029_001_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 01] : revue trimestrielle des maladies nerveuses et mentales",
+        "date": "1881",
+        "token_count": 302295
+    },
+    {
+        "file": "CL_000001_007_texte.txt.xml",
+        "authors": [
+            "Ball, Benjamin",
+            "Charcot, Jean-Martin",
+            "Joffroy, Alix",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 7. Maladies des vieillards : goutte et rhumatisme",
+        "date": "1890",
+        "token_count": 224619
+    },
+    {
+        "file": "CN_000053_025_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 25, n° 73-76] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1893",
+        "token_count": 215055
+    },
+    {
+        "file": "CN_000033_005_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 05, n° 13-15] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1883",
+        "token_count": 206003
+    },
+    {
+        "file": "CN_000077_019_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 19, n° 109-114] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1905",
+        "token_count": 231984
+    },
+    {
+        "file": "CN_000045_017_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 17, n° 49-51] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1889",
+        "token_count": 212629
+    },
+    {
+        "file": "CN_000071_013_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 13, n° 73-78] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1902",
+        "token_count": 253568
+    },
+    {
+        "file": "CL_000001_009_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 9. Hémorragie et ramollissement du cerveau, métallothérapie et hypnotisme, électrothérapie",
+        "date": "1890",
+        "token_count": 180982
+    },
+    {
+        "file": "CO_000092_010_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Londe, Albert",
+            "Blocq, Paul"
+        ],
+        "title": "Anatomie pathologique de la moëlle épinière : 45 planches en héliogravure avec texte explicatif",
+        "date": "1891",
+        "token_count": 15066
+    },
+    {
+        "file": "CN_000060_002_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 02, n° 07-12] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1896",
+        "token_count": 238233
+    },
+    {
+        "file": "CN_000066_008_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 08, n° 43-48] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1899",
+        "token_count": 261298
+    },
+    {
+        "file": "CN_000068_010_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 10, n° 55-60] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1900",
+        "token_count": 251199
+    },
+    {
+        "file": "CN_000064_006_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 06, n° 31-36] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1898",
+        "token_count": 249002
+    },
+    {
+        "file": "CN_000041_013_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 13, n° 37-39] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1887",
+        "token_count": 214235
+    },
+    {
+        "file": "CN_000075_017_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 17, n° 97-102] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1904",
+        "token_count": 258376
+    },
+    {
+        "file": "CN_000047_019_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 19, n° 55-57] : revue des maladies nerveuses et mentales",
+        "date": "1890",
+        "token_count": 178499
+    },
+    {
+        "file": "CN_000081_001_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [3ème série, tome 01, n° 01-06] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1906",
+        "token_count": 252367
+    },
+    {
+        "file": "CO_000093_011_texte.txt.xml",
+        "authors": [
+            "Marie, Pierre",
+            "Desnos, Ernest",
+            "Crouzon, Octave",
+            "Delamare, G."
+        ],
+        "title": "La pratique neurologique",
+        "date": "1911",
+        "token_count": 681209
+    },
+    {
+        "file": "CH_00000108_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XI]",
+        "date": "1852",
+        "token_count": 18656
+    },
+    {
+        "file": "CS_000015_015_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 15]",
+        "date": "1902",
+        "token_count": 268823
+    },
+    {
+        "file": "CI_000001_001_texte.txt.xml",
+        "authors": [
+            "Regnard, Paul",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Iconographie photographique de la Salpêtrière. Service de M.Charcot, 1875",
+        "date": "1875",
+        "token_count": 66
+    },
+    {
+        "file": "CA_000004_001_texte.txt.xml",
+        "authors": [
+            "Chazal, Antoine",
+            "Leuret, François",
+            "Oudet",
+            "Trélat, Ulysse",
+            "Gratiolet, Pierre-Louis"
+        ],
+        "title": "Anatomie comparée du système nerveux considéré dans ses rapports avec l'intelligence. Tome premier",
+        "date": "1839",
+        "token_count": 224750
+    },
+    {
+        "file": "CY_000108_014_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie, l'idiotie et l'hydrocéphalie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1893",
+        "date": "1894",
+        "token_count": 117874
+    },
+    {
+        "file": "CY_000102_008_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1887",
+        "date": "1888",
+        "token_count": 119879
+    },
+    {
+        "file": "CP_000003_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Montméja, A. de"
+        ],
+        "title": "Revue photographique des hôpitaux de Paris. 3ème année",
+        "date": "1871",
+        "token_count": 149848
+    },
+    {
+        "file": "CH_00000095_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 19",
+        "date": "1904-1905",
+        "token_count": 232252
+    },
+    {
+        "file": "CH_00000082_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 6",
+        "date": "1891-1892",
+        "token_count": 225536
+    },
+    {
+        "file": "CY_000113_019_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1898",
+        "date": "1899",
+        "token_count": 93704
+    },
+    {
+        "file": "CO_000090_008_texte.txt.xml",
+        "authors": [
+            "Babinski, Joseph",
+            "Barré, Jean-Alexandre"
+        ],
+        "title": "Oeuvre scientifique",
+        "date": "1934",
+        "token_count": 318458
+    },
+    {
+        "file": "CS_000022_022_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 22] : iconographie médicale et artistique",
+        "date": "1909",
+        "token_count": 356552
+    },
+    {
+        "file": "CS_000004_004_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 04] : clinique des maladies du système nerveux",
+        "date": "1891",
+        "token_count": 238915
+    },
+    {
+        "file": "CY_000117_023_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1902",
+        "date": "1903",
+        "token_count": 114086
+    },
+    {
+        "file": "CI_000004_001_texte.txt.xml",
+        "authors": [
+            "Regnard, Paul",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Iconographie photographique de la Salpêtriere. Service de M. Charcot, 1880",
+        "date": "1880",
+        "token_count": 83211
+    },
+    {
+        "file": "CA_000001_001_texte.txt.xml",
+        "authors": [
+            "Gratiolet, Pierre-Louis",
+            "Arthus Bertrand"
+        ],
+        "title": "Mémoire sur les plis cérébraux de l'homme et des primatès",
+        "date": "1854",
+        "token_count": 51715
+    },
+    {
+        "file": "CH_00000086_texte.txt.xml",
+        "authors": [
+            "Bérillon. Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 10",
+        "date": "1895-1896",
+        "token_count": 192138
+    },
+    {
+        "file": "CY_000119_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1904",
+        "date": "1905",
+        "token_count": 97632
+    },
+    {
+        "file": "CH_00000091_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 15",
+        "date": "1900-1901",
+        "token_count": 186305
+    },
+    {
+        "file": "CL_000007_001_texte.txt.xml",
+        "authors": [
+            "Londe, Albert",
+            "Gauthier-Villars"
+        ],
+        "title": "La photographie médicale : application aux sciences médicales et physiologiques",
+        "date": "1893",
+        "token_count": 72032
+    },
+    {
+        "file": "CH_00000081_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 5",
+        "date": "1890-1891",
+        "token_count": 231923
+    },
+    {
+        "file": "CH_00000096_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 20",
+        "date": "1905-1906",
+        "token_count": 197315
+    },
+    {
+        "file": "CY_000111_017_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1896",
+        "date": "1897",
+        "token_count": 103474
+    },
+    {
+        "file": "CY_000097_003_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des épileptiques et des enfants idiots et arriérés de Bicêtre pendant l'année 1882",
+        "date": "1883",
+        "token_count": 49038
+    },
+    {
+        "file": "CH_00000092_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 16",
+        "date": "1901-1902",
+        "token_count": 196662
+    },
+    {
+        "file": "CH_00000085_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 9",
+        "date": "1894-1895",
+        "token_count": 192500
+    },
+    {
+        "file": "CA_000001_002_texte.txt.xml",
+        "authors": [
+            "Gratiolet, Pierre-Louis",
+            "Arthus Bertrand"
+        ],
+        "title": "Mémoire sur les plis cérébraux de l'homme et des primates",
+        "date": "1854",
+        "token_count": 1844
+    },
+    {
+        "file": "CA_000005_001_texte.txt.xml",
+        "authors": [
+            "Foville, Achille Louis",
+            "Bion, F.",
+            "Beau, Émile"
+        ],
+        "title": "Traité complet de l'anatomie, de la physiologie et de la pathologie du système nerveux cérébro-spinal. Première partie. Anatomie",
+        "date": "1844",
+        "token_count": 14447
+    },
+    {
+        "file": "CS_000026_026_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 26] : iconographie médicale et artistique",
+        "date": "1913",
+        "token_count": 243861
+    },
+    {
+        "file": "CL_000003_001_texte.txt.xml",
+        "authors": [
+            "Meige, Henry"
+        ],
+        "title": "Charcot artiste",
+        "date": "1925",
+        "token_count": 10697
+    },
+    {
+        "file": "CY_000105_011_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1890",
+        "date": "1891",
+        "token_count": 108538
+    },
+    {
+        "file": "CP_000002_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Montméja, A. de"
+        ],
+        "title": "Revue photographique des hôpitaux de Paris. 2è année",
+        "date": "1870",
+        "token_count": 114586
+    },
+    {
+        "file": "CS_000011_011_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 11]",
+        "date": "1898",
+        "token_count": 261495
+    },
+    {
+        "file": "CA_000004_002_texte.txt.xml",
+        "authors": [
+            "Chazal, Antoine",
+            "Leuret, François",
+            "Oudet",
+            "Trélat, Ulysse",
+            "Gratiolet, Pierre-Louis"
+        ],
+        "title": "Anatomie comparée du système nerveux considéré dans ses rapports avec l'intelligence. Tome second",
+        "date": "1839",
+        "token_count": 252747
+    },
+    {
+        "file": "CY_000100_006_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des épileptiques et des enfants idiots et arriérés de Bicêtre pendant l'année 1885",
+        "date": "1886",
+        "token_count": 42570
+    },
+    {
+        "file": "CH_00000105_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome VIII]",
+        "date": "1849",
+        "token_count": 209036
+    },
+    {
+        "file": "CP_000004_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Montméja, A. de"
+        ],
+        "title": "Revue photographique des hôpitaux de Paris. 4è année",
+        "date": "1872",
+        "token_count": 200205
+    },
+    {
+        "file": "CH_00000112_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XV]",
+        "date": "1856",
+        "token_count": 263290
+    },
+    {
+        "file": "CS_000019_019_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 19] : iconographie médicale et artistique",
+        "date": "1906",
+        "token_count": 304618
+    },
+    {
+        "file": "CY_000114_020_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1899",
+        "date": "1900",
+        "token_count": 114229
+    },
+    {
+        "file": "CS_000021_021_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 21] : iconographie médicale et artistique",
+        "date": "1908",
+        "token_count": 256569
+    },
+    {
+        "file": "CS_000007_007_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 07] : clinique des maladies du système nerveux",
+        "date": "1894",
+        "token_count": 175547
+    },
+    {
+        "file": "CH_00000116_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XIX]",
+        "date": "1860",
+        "token_count": 262013
+    },
+    {
+        "file": "CH_00000101_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome I]",
+        "date": "1845",
+        "token_count": 176491
+    },
+    {
+        "file": "CI_000003_001_texte.txt.xml",
+        "authors": [
+            "Regnard, Paul",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Iconographie photographique de la Salpêtriere. Service de M. Charcot, 1878",
+        "date": "1878",
+        "token_count": 84675
+    },
+    {
+        "file": "CP_000001_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Montméja, A. de"
+        ],
+        "title": "Revue photographique des hôpitaux de Paris. 1ère année",
+        "date": "1869",
+        "token_count": 77945
+    },
+    {
+        "file": "CH_00000098_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 22",
+        "date": "1907-1908",
+        "token_count": 200568
+    },
+    {
+        "file": "CY_000099_005_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des épileptiques et des enfants idiots et arriérés de Bicêtre pendant l'année 188",
+        "date": "1885",
+        "token_count": 97074
+    },
+    {
+        "file": "CA_000003_001_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard"
+        ],
+        "title": "Anatomie du cerveau de l'homme : morphologie des hémisphères cérébraux, ou cerveau proprement dit. Texte accompagné de 204 figures schématiques",
+        "date": "1893",
+        "token_count": 250005
+    },
+    {
+        "file": "CA_000007_002_texte.txt.xml",
+        "authors": [
+            "Bourgery, Jean-Marc",
+            "Jacob, Nicolas-Henri",
+            "Bernard, Claude"
+        ],
+        "title": "Traité complet de l'anatomie de l'homme comprenant l'anatomie chirurgicale et la médecine opératoire. Tome septième. Anatomie chirurgicale et médecine opératoire. Deuxième partie",
+        "date": "1866",
+        "token_count": 641189
+    },
+    {
+        "file": "CS_000016_016_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 16]",
+        "date": "1903",
+        "token_count": 212308
+    },
+    {
+        "file": "CS_000008_008_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 08] : clinique des maladies du système nerveux",
+        "date": "1895",
+        "token_count": 183248
+    },
+    {
+        "file": "CO_000088_006_texte.txt.xml",
+        "authors": [
+            "Dejerine, Jules",
+            "Dejerine-Klumpke, Augusta"
+        ],
+        "title": "Anatomie des centres nerveux. Tome 1 : Méthodes générales d'étude-embryologie-histogénèse et histologie, anatomie du cerveau",
+        "date": "1895",
+        "token_count": 454923
+    },
+    {
+        "file": "CS_000012_012_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 12]",
+        "date": "1899",
+        "token_count": 250667
+    },
+    {
+        "file": "CH_00000088_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 12",
+        "date": "1897-1898",
+        "token_count": 197979
+    },
+    {
+        "file": "CA_000007_001_texte.txt.xml",
+        "authors": [
+            "Bourgery, Jean-Marc",
+            "Jacob, Nicolas-Henri",
+            "Bernard, Claude"
+        ],
+        "title": "Traité complet de l'anatomie de l'homme comprenant l'anatomie chirurgicale et la médecine opératoire. Tome sixième. Anatomie chirurgicale et médecine opératoire. Première partie",
+        "date": "1866",
+        "token_count": 421722
+    },
+    {
+        "file": "CA_000003_002_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard"
+        ],
+        "title": "Anatomie du cerveau de l'homme : morphologie des hémisphères cérébraux, ou cerveau proprement dit. Atlas",
+        "date": "1893",
+        "token_count": 35016
+    },
+    {
+        "file": "CH_00000111_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XIV]",
+        "date": "1855",
+        "token_count": 262158
+    },
+    {
+        "file": "CI_000002_001_texte.txt.xml",
+        "authors": [
+            "Regnard, Paul",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Iconographie photographique de la Salpêtriere. Service de M. Charcot, 1877",
+        "date": "1877",
+        "token_count": 60543
+    },
+    {
+        "file": "CH_00000106_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome IX]",
+        "date": "1850",
+        "token_count": 168735
+    },
+    {
+        "file": "CY_000094_000_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie et l'hystérie : Compte rendu des observations recueillies à la Salpêtrière de 1872 à 1875",
+        "date": "1876",
+        "token_count": 74852
+    },
+    {
+        "file": "CH_00000078_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 2",
+        "date": "1887-1888",
+        "token_count": 217811
+    },
+    {
+        "file": "CA_000002_001_texte.txt.xml",
+        "authors": [
+            "Perez, Fernando"
+        ],
+        "title": "Oreille et encéphale : étude d'anatomie chirurgicale",
+        "date": "1905",
+        "token_count": 72144
+    },
+    {
+        "file": "CH_00000102_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tomes II et III]",
+        "date": "1846",
+        "token_count": 214366
+    },
+    {
+        "file": "CH_00000115_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XVIII]",
+        "date": "1859",
+        "token_count": 270098
+    },
+    {
+        "file": "CY_000106_012_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1891",
+        "date": "1892",
+        "token_count": 83755
+    },
+    {
+        "file": "CS_000003_003_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 03] : clinique des maladies du système nerveux",
+        "date": "1890",
+        "token_count": 130455
+    },
+    {
+        "file": "CS_000025_025_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 25] : iconographie médicale et artistique",
+        "date": "1912",
+        "token_count": 241427
+    },
+    {
+        "file": "CH_00000089_texte.txt.xml",
+        "authors": [],
+        "title": null,
+        "date": null,
+        "token_count": 196602
+    },
+    {
+        "file": "CS_000006_006_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 06] : clinique des maladies du système nerveux",
+        "date": "1893",
+        "token_count": 177930
+    },
+    {
+        "file": "CS_000020_020_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 20] : iconographie médicale et artistique",
+        "date": "1907",
+        "token_count": 261573
+    },
+    {
+        "file": "CY_000115_021_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1900",
+        "date": "1901",
+        "token_count": 81279
+    },
+    {
+        "file": "CS_000018_018_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 18] : recueil consacré à l'iconographie médicale et artistique",
+        "date": "1905",
+        "token_count": 375812
+    },
+    {
+        "file": "CS_000009_009_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 09] : clinique des maladies du système nerveux",
+        "date": "1896",
+        "token_count": 187013
+    },
+    {
+        "file": "CO_000089_007_texte.txt.xml",
+        "authors": [
+            "Dejerine, Jules",
+            "Dejerine-Klumpke, Augusta"
+        ],
+        "title": "Anatomie des centres nerveux. Tome 2, Fascicule 1 : Anatomie du cerveau (suite), anatomie du rhombencéphale",
+        "date": "1901",
+        "token_count": 381785
+    },
+    {
+        "file": "CH_00000114_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XVII]",
+        "date": "1858",
+        "token_count": 264952
+    },
+    {
+        "file": "CS_000017_017_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 17]",
+        "date": "1904",
+        "token_count": 238738
+    },
+    {
+        "file": "CH_00000103_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tomes IV et V]",
+        "date": "1847",
+        "token_count": 259900
+    },
+    {
+        "file": "CL_000008_001_texte.txt.xml",
+        "authors": [
+            "Duchenne, Guillaume-Benjamin"
+        ],
+        "title": "Mécanisme de la physionomie humaine : ou analyse électro-physiologique de l'expression des passions",
+        "date": "1862",
+        "token_count": 69422
+    },
+    {
+        "file": "CY_000098_004_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des épileptiques et des enfants idiots et arriérés de Bicêtre pendant l'année 1883",
+        "date": "1884",
+        "token_count": 74793
+    },
+    {
+        "file": "CH_00000079_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 3",
+        "date": "1888-1889",
+        "token_count": 213930
+    },
+    {
+        "file": "CH_00000107_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome X]",
+        "date": "1851",
+        "token_count": 254771
+    },
+    {
+        "file": "CH_00000110_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XIII]",
+        "date": "1854",
+        "token_count": 304922
+    },
+    {
+        "file": "CH_00000100_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 24",
+        "date": "1909-1910",
+        "token_count": 217912
+    },
+    {
+        "file": "CH_00000117_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XX]",
+        "date": "1861",
+        "token_count": 182523
+    },
+    {
+        "file": "CY_000118_024_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1903",
+        "date": "1904",
+        "token_count": 138970
+    },
+    {
+        "file": "CH_00000113_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XVI]",
+        "date": "1857",
+        "token_count": 261600
+    },
+    {
+        "file": "CS_000013_013_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 13]",
+        "date": "1900",
+        "token_count": 339117
+    },
+    {
+        "file": "CH_00000104_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tomes VI et VII]",
+        "date": "1848",
+        "token_count": 244182
+    },
+    {
+        "file": "CS_000002_002_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 02] : clinique des maladies du système nerveux",
+        "date": "1889",
+        "token_count": 145949
+    },
+    {
+        "file": "CS_000024_024_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 24] : iconographie médicale et artistique",
+        "date": "1911",
+        "token_count": 254579
+    },
+    {
+        "file": "CY_000107_013_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1892",
+        "date": "1893",
+        "token_count": 148161
+    },
+    {
+        "file": "CA_000007_003_texte.txt.xml",
+        "authors": [
+            "Bourgery, Jean-Marc",
+            "Jacob, Nicolas-Henri",
+            "Bernard, Claude"
+        ],
+        "title": "Traité complet de l'anatomie de l'homme comprenant l'anatomie chirurgicale et la médecine opératoire. Anatomie chirurgicale et médecine opératoire. Suppléments",
+        "date": "1867",
+        "token_count": 165261
+    },
+    {
+        "file": "CY_000095_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des épileptiques et des enfants idiots et arriérés de Bicêtre pendant l'année 1880",
+        "date": "1881",
+        "token_count": 48983
+    },
+    {
+        "file": "CH_00000099_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 23",
+        "date": "1908-1909",
+        "token_count": 221484
+    },
+    {
+        "file": "CY_000103_009_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1888",
+        "date": "1889",
+        "token_count": 49186
+    },
+    {
+        "file": "CY_000109_015_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1894",
+        "date": "1895",
+        "token_count": 61509
+    },
+    {
+        "file": "CH_00000084_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 5",
+        "date": "1890-1891",
+        "token_count": 199190
+    },
+    {
+        "file": "CH_00000093_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 17",
+        "date": "1902-1903",
+        "token_count": 192009
+    },
+    {
+        "file": "CS_000014_014_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 14]",
+        "date": "1901",
+        "token_count": 251907
+    },
+    {
+        "file": "CH_00000097_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 21",
+        "date": "1906-1907",
+        "token_count": 201725
+    },
+    {
+        "file": "CH_00000080_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 4",
+        "date": "1889-1890",
+        "token_count": 236468
+    },
+    {
+        "file": "CA_000010_001_texte.txt.xml",
+        "authors": [
+            "Gavoy, Émile-Alexandre",
+            "Vulpian, Alfred"
+        ],
+        "title": "L'encéphale : structure et description iconographique du cerveau, du cervelet et du bulbe : avec atlas de 59 planches en glyptographie",
+        "date": "1886",
+        "token_count": 55682
+    },
+    {
+        "file": "CA_000014_002_texte.txt.xml",
+        "authors": [
+            "Cruveilhier, Jean",
+            "Chazal, Antoine"
+        ],
+        "title": "Anatomie pathologique du corps humain : ou descriptions, avec figures lithographiées et coloriées, des diverses altérations morbides dont le corps humain est susceptible. Tome second",
+        "date": "1829",
+        "token_count": 510337
+    },
+    {
+        "file": "CY_000120_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1905",
+        "date": "1906",
+        "token_count": 102854
+    },
+    {
+        "file": "CA_000004_003_texte.txt.xml",
+        "authors": [
+            "Chazal, Antoine",
+            "Leuret, François",
+            "Oudet",
+            "Trélat, Ulysse",
+            "Gratiolet, Pierre-Louis"
+        ],
+        "title": "Anatomie comparée du système nerveux considéré dans ses rapports avec l'intelligence. Atlas",
+        "date": "1857",
+        "token_count": 26070
+    },
+    {
+        "file": "CY_000116_022_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1901",
+        "date": "1902",
+        "token_count": 115136
+    },
+    {
+        "file": "CS_000023_023_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 23] : iconographie médicale et artistique",
+        "date": "1910",
+        "token_count": 341252
+    },
+    {
+        "file": "CS_000005_005_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 05] : clinique des maladies du système nerveux",
+        "date": "1892",
+        "token_count": 186951
+    },
+    {
+        "file": "CY_000112_018_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1897",
+        "date": "1898",
+        "token_count": 83781
+    },
+    {
+        "file": "CO_000091_009_texte.txt.xml",
+        "authors": [
+            "Babinski, Joseph"
+        ],
+        "title": "Exposé des travaux scientifiques",
+        "date": "1913",
+        "token_count": 83335
+    },
+    {
+        "file": "CA_000008_002_texte.txt.xml",
+        "authors": [
+            "Bouvier, Sauveur Henri Victor"
+        ],
+        "title": "Leçons cliniques sur les maladies chroniques de l'appareil locomoteur : professées à l'Hôpital des enfants malades pendant les années 1855, 1856, 1857. Déviations de la colonne vertébrale. Atlas de XX planches",
+        "date": "1858",
+        "token_count": 18328
+    },
+    {
+        "file": "CY_000104_010_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Sollier, Paul Auguste",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre",
+            "Pilliet, Alexandre-Henri"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1889",
+        "date": "1890",
+        "token_count": 73382
+    },
+    {
+        "file": "CA_000014_001_texte.txt.xml",
+        "authors": [
+            "Cruveilhier, Jean",
+            "Chazal, Antoine"
+        ],
+        "title": "Anatomie pathologique du corps humain : ou descriptions, avec figures lithographiées et coloriées, des diverses altérations morbides dont le corps humain est susceptible. Tome premier",
+        "date": "1829",
+        "token_count": 397308
+    },
+    {
+        "file": "CS_000001_001_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 01] : clinique des maladies du système nerveux",
+        "date": "1888",
+        "token_count": 119994
+    },
+    {
+        "file": "CS_000027_027_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 27] : iconographie médicale et artistique",
+        "date": "1915",
+        "token_count": 196417
+    },
+    {
+        "file": "CA_000010_002_texte.txt.xml",
+        "authors": [
+            "Gavoy, Émile-Alexandre",
+            "Vulpian, Alfred"
+        ],
+        "title": "L'encéphale : structure et description iconographique du cerveau, du cervelet et du bulbe : avec atlas de 59 planches en glyptographie. Atlas",
+        "date": "1886",
+        "token_count": 2879
+    },
+    {
+        "file": "CY_000096_002_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des épileptiques et des enfants idiots et arriérés de Bicêtre pendant l'année 1881",
+        "date": "1882",
+        "token_count": 74606
+    },
+    {
+        "file": "CO_000087_005_texte.txt.xml",
+        "authors": [
+            "Desmoulins, Antoine",
+            "Magendie, François"
+        ],
+        "title": "Anatomie des systèmes nerveux des animaux à vertèbres, appliquée à la physiologie et à la zoologie : Atlas",
+        "date": "1825",
+        "token_count": 5932
+    },
+    {
+        "file": "CH_00000077_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 1",
+        "date": "1887",
+        "token_count": 217812
+    },
+    {
+        "file": "CA_000008_001_texte.txt.xml",
+        "authors": [
+            "Bouvier, Sauveur Henri Victor"
+        ],
+        "title": "Leçons cliniques sur les maladies chroniques de l'appareil locomoteur : professées à l'Hôpital des enfants malades pendant les années 1855, 1856, 1857",
+        "date": "1858",
+        "token_count": 234727
+    },
+    {
+        "file": "CH_00000109_texte.txt.xml",
+        "authors": [
+            "Société de magnétiseurs et de médecins"
+        ],
+        "title": "Journal du magnétisme [Tome XII]",
+        "date": "1853",
+        "token_count": 263294
+    },
+    {
+        "file": "CY_000110_016_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1895",
+        "date": "1896",
+        "token_count": 89526
+    },
+    {
+        "file": "CA_000011_001_texte.txt.xml",
+        "authors": [
+            "Flower, William Henry",
+            "Duprat, A."
+        ],
+        "title": "Atlas schématique du système nerveux : origines, ramifications, anastomoses des nerfs : leur distribution dans les muscles et la peau",
+        "date": "1888",
+        "token_count": 5931
+    },
+    {
+        "file": "CY_000101_007_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des épileptiques et des enfants idiots et arriérés de Bicêtre pendant l'année 1886",
+        "date": "1887",
+        "token_count": 113492
+    },
+    {
+        "file": "CH_00000090_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 14",
+        "date": "1899-1900",
+        "token_count": 190943
+    },
+    {
+        "file": "CY_000121_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Service des épileptiques et des enfants idiots et arriérés de Bicêtre"
+        ],
+        "title": "Recherches cliniques et thérapeutiques sur l'épilepsie, l'hystérie et l'idiotie : Compte-rendu du service des enfants idiots, épileptiques et arriérés de Bicêtre pendant l'année 1906",
+        "date": "1907",
+        "token_count": 42481
+    },
+    {
+        "file": "CH_00000087_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 11",
+        "date": "1896-1897",
+        "token_count": 194625
+    },
+    {
+        "file": "CS_000028_028_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 28] : iconographie médicale et artistique",
+        "date": "1918",
+        "token_count": 221655
+    },
+    {
+        "file": "CH_00000083_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 7",
+        "date": "1892-1893",
+        "token_count": 217887
+    },
+    {
+        "file": "CS_000010_010_texte.txt.xml",
+        "authors": [
+            "Gilles de la Tourette, Georges"
+        ],
+        "title": "Nouvelle iconographie de la Salpétrière [Tome 10]",
+        "date": "1897",
+        "token_count": 218831
+    },
+    {
+        "file": "CH_00000094_texte.txt.xml",
+        "authors": [
+            "Bérillon, Edgar"
+        ],
+        "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 18",
+        "date": "1903-1904",
+        "token_count": 191623
+    }
+]

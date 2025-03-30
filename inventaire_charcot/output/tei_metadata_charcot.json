@@ -1,0 +1,695 @@
+[
+    {
+        "file": "CN_000044_016_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 16, n° 46-48] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1888",
+        "token_count": 218916
+    },
+    {
+        "file": "CN_000070_012_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 12, n° 67-72] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1901",
+        "token_count": 250842
+    },
+    {
+        "file": "CN_000052_024_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 24, n° 70-72] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1892",
+        "token_count": 253978
+    },
+    {
+        "file": "CN_000076_018_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 18, n° 103-108] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1904",
+        "token_count": 245612
+    },
+    {
+        "file": "CN_000067_009_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 09, n° 49-54] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1900",
+        "token_count": 268418
+    },
+    {
+        "file": "CN_000032_004_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 04, n° 10-12] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1882",
+        "token_count": 169894
+    },
+    {
+        "file": "CN_000061_003_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 03, n° 13-18] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1897",
+        "token_count": 242603
+    },
+    {
+        "file": "CN_000065_007_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 07, n° 37-42] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1899",
+        "token_count": 245271
+    },
+    {
+        "file": "CL_000001_008_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 8. Maladies infectieuses, affections de la peau, kystes hydatiques, estomac et rate, thérapeutique",
+        "date": "1889",
+        "token_count": 167498
+    },
+    {
+        "file": "CN_000069_011_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 11, n° 61-66] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1901",
+        "token_count": 265314
+    },
+    {
+        "file": "CN_000059_001_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 01, n° 01-06] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1896",
+        "token_count": 240449
+    },
+    {
+        "file": "CN_000046_018_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 18, n° 52-54] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1889",
+        "token_count": 198024
+    },
+    {
+        "file": "CN_000074_016_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 16, n° 91-96] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1903",
+        "token_count": 254397
+    },
+    {
+        "file": "CN_000040_012_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 12, n° 34-36] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1886",
+        "token_count": 183053
+    },
+    {
+        "file": "CN_000062_004_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 04, n° 19-24] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1897",
+        "token_count": 260016
+    },
+    {
+        "file": "CN_000078_020_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 20, n° 115-120] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1905",
+        "token_count": 237686
+    },
+    {
+        "file": "CN_000051_023_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 23, n° 67-69] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1892",
+        "token_count": 202726
+    },
+    {
+        "file": "CL_000001_006_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard",
+            "Charcot, Jean-Martin",
+            "Sevestre, Louis Arthur",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Leçons sur les maladies du foie et des reins. Tome 6",
+        "date": "1891",
+        "token_count": 159395
+    },
+    {
+        "file": "CN_000031_003_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 03, n° 07-09] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1882",
+        "token_count": 157476
+    },
+    {
+        "file": "CN_000057_029_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 29, n° 95-100] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1895",
+        "token_count": 242152
+    },
+    {
+        "file": "CN_000073_015_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 15, n° 85-90] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1903",
+        "token_count": 282033
+    },
+    {
+        "file": "CL_000001_002_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 2. Leçons sur les maladies du système nerveux",
+        "date": "1886",
+        "token_count": 192947
+    },
+    {
+        "file": "CN_000037_009_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 09, n° 25-27] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1885",
+        "token_count": 191466
+    },
+    {
+        "file": "CL_000005_001_texte.txt.xml",
+        "authors": [
+            "Guinon, Georges",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Clinique des maladies du système nerveux : leçons du professeur, mémoires, notes et observations : parus pendant les années 1889-90 et 1890-91. Tome 1",
+        "date": "1892",
+        "token_count": 162512
+    },
+    {
+        "file": "CN_000039_011_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 11, n° 31-33] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1886",
+        "token_count": 197029
+    },
+    {
+        "file": "CN_000043_015_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 15, n° 43-45] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1888",
+        "token_count": 210025
+    },
+    {
+        "file": "CL_000001_005_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard",
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 5. Maladies des poumons et du système vasculaire",
+        "date": "1888",
+        "token_count": 235180
+    },
+    {
+        "file": "CL_000005_002_texte.txt.xml",
+        "authors": [
+            "Guinon, Georges",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Clinique des maladies du système nerveux : leçons du professeur, mémoires, notes et observations : parus pendant les années 1889-90 et 1890-91. Tome 2",
+        "date": "1893",
+        "token_count": 191190
+    },
+    {
+        "file": "CL_000001_001_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 1. Leçons sur les maladies du système nerveux",
+        "date": "1892",
+        "token_count": 193105
+    },
+    {
+        "file": "CN_000055_027_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 27, n° 83-88] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1894",
+        "token_count": 282601
+    },
+    {
+        "file": "CN_000035_007_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 07, n° 19-21] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1884",
+        "token_count": 183645
+    },
+    {
+        "file": "CN_000048_020_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 20, n° 58-60] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1890",
+        "token_count": 201754
+    },
+    {
+        "file": "CL_000004_001_texte.txt.xml",
+        "authors": [
+            "Richer, Paul",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Études cliniques sur l'hystéro-épilepsie, ou Grande hystérie",
+        "date": "1881",
+        "token_count": 359652
+    },
+    {
+        "file": "CL_000001_004_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard",
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 4. Leçons sur les maladies du système nerveux",
+        "date": "1893",
+        "token_count": 139088
+    },
+    {
+        "file": "CL_000009_002_texte.txt.xml",
+        "authors": [
+            "Colin, Henri",
+            "Charcot, Jean-Martin",
+            "Charcot, Jean-Baptiste"
+        ],
+        "title": "Leçons du Mardi à la Salpêtrière. Policlinique 1888-1889",
+        "date": "1889",
+        "token_count": 269068
+    },
+    {
+        "file": "CN_000063_005_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 05, n° 25-30] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1898",
+        "token_count": 254523
+    },
+    {
+        "file": "CN_000079_021_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 21, n° 121-126] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1906",
+        "token_count": 228892
+    },
+    {
+        "file": "CN_000036_008_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 08, n° 22-24] : revue des maladies nerveuses et mentales",
+        "date": "1884",
+        "token_count": 187544
+    },
+    {
+        "file": "CN_000056_028_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 28, n° 89-94] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1894",
+        "token_count": 264965
+    },
+    {
+        "file": "CN_000072_014_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 14, n° 79-84] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1902",
+        "token_count": 247303
+    },
+    {
+        "file": "CN_000030_002_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 02, n° 05-06] : revue trimestrielle des maladies nerveuses et mentales",
+        "date": "1881",
+        "token_count": 139034
+    },
+    {
+        "file": "CN_000080_022_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 22, n° 127-132] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1906",
+        "token_count": 217906
+    },
+    {
+        "file": "CN_000050_022_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 22, n° 64-66] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1891",
+        "token_count": 205548
+    },
+    {
+        "file": "CN_000034_006_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 06, n° 16-18] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1883",
+        "token_count": 233640
+    },
+    {
+        "file": "CN_000054_026_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 26, n° 77-82] : revue des maladies nerveuses et mentales",
+        "date": "1893",
+        "token_count": 256423
+    },
+    {
+        "file": "CN_000042_014_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 14, n° 40-42] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1887",
+        "token_count": 197160
+    },
+    {
+        "file": "CN_000058_030_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 30, n° 101-106] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1895",
+        "token_count": 241618
+    },
+    {
+        "file": "CN_000038_010_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 10, n° 28-30] : revue des maladies nerveuses et mentales",
+        "date": "1885",
+        "token_count": 208340
+    },
+    {
+        "file": "CL_000001_003_texte.txt.xml",
+        "authors": [
+            "Brissaud, Édouard",
+            "Charcot, Jean-Martin",
+            "Gilles de la Tourette, Georges",
+            "Babinski, Joseph",
+            "Féré, Charles",
+            "Bourneville, Désiré Magloire",
+            "Bernard, Désiré"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 3. Leçons sur les maladies du système nerveux",
+        "date": "1890",
+        "token_count": 182542
+    },
+    {
+        "file": "CN_000082_002_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [3ème série, tome 02, n° 07-12] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1907",
+        "token_count": 243008
+    },
+    {
+        "file": "CN_000049_021_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 21, n° 61-63] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1891",
+        "token_count": 216741
+    },
+    {
+        "file": "CN_000029_001_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 01] : revue trimestrielle des maladies nerveuses et mentales",
+        "date": "1881",
+        "token_count": 302295
+    },
+    {
+        "file": "CL_000001_007_texte.txt.xml",
+        "authors": [
+            "Ball, Benjamin",
+            "Charcot, Jean-Martin",
+            "Joffroy, Alix",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 7. Maladies des vieillards : goutte et rhumatisme",
+        "date": "1890",
+        "token_count": 224619
+    },
+    {
+        "file": "CN_000053_025_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 25, n° 73-76] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1893",
+        "token_count": 215055
+    },
+    {
+        "file": "CN_000033_005_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 05, n° 13-15] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1883",
+        "token_count": 206003
+    },
+    {
+        "file": "CN_000077_019_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 19, n° 109-114] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1905",
+        "token_count": 231984
+    },
+    {
+        "file": "CN_000045_017_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 17, n° 49-51] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1889",
+        "token_count": 212629
+    },
+    {
+        "file": "CN_000071_013_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 13, n° 73-78] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1902",
+        "token_count": 253568
+    },
+    {
+        "file": "CL_000001_009_texte.txt.xml",
+        "authors": [
+            "Bourneville, Désiré Magloire",
+            "Charcot, Jean-Martin"
+        ],
+        "title": "Oeuvres complètes de J. M. Charcot. Tome 9. Hémorragie et ramollissement du cerveau, métallothérapie et hypnotisme, électrothérapie",
+        "date": "1890",
+        "token_count": 180982
+    },
+    {
+        "file": "CO_000092_010_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Londe, Albert",
+            "Blocq, Paul"
+        ],
+        "title": "Anatomie pathologique de la moëlle épinière : 45 planches en héliogravure avec texte explicatif",
+        "date": "1891",
+        "token_count": 15066
+    },
+    {
+        "file": "CN_000060_002_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 02, n° 07-12] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1896",
+        "token_count": 238233
+    },
+    {
+        "file": "CN_000066_008_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 08, n° 43-48] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1899",
+        "token_count": 261298
+    },
+    {
+        "file": "CN_000068_010_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 10, n° 55-60] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1900",
+        "token_count": 251199
+    },
+    {
+        "file": "CN_000064_006_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 06, n° 31-36] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1898",
+        "token_count": 249002
+    },
+    {
+        "file": "CN_000041_013_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 13, n° 37-39] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1887",
+        "token_count": 214235
+    },
+    {
+        "file": "CN_000075_017_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [2ème série, tome 17, n° 97-102] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1904",
+        "token_count": 258376
+    },
+    {
+        "file": "CN_000047_019_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [Tome 19, n° 55-57] : revue des maladies nerveuses et mentales",
+        "date": "1890",
+        "token_count": 178499
+    },
+    {
+        "file": "CN_000081_001_texte.txt.xml",
+        "authors": [
+            "Charcot, Jean-Martin",
+            "Bourneville, Désiré Magloire"
+        ],
+        "title": "Archives de neurologie [3ème série, tome 01, n° 01-06] : revue mensuelle des maladies nerveuses et mentales",
+        "date": "1906",
+        "token_count": 252367
+    }
+]
