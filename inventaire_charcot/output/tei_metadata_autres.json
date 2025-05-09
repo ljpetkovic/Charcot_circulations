@@ -664,7 +664,7 @@
     },
     {
         "file": "CH_00000089_texte.txt.xml",
-        "authors": [Bérillon, Edgar],
+        "authors": ["Bérillon, Edgar"],
         "title": "Revue de l'hypnotisme et de la psychologie physiologique, Tome 13",
         "date": "1898-1899",
         "token_count": 196602

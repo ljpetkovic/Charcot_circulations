@@ -449,6 +449,7 @@
         "corpus": "corpus_Charcot",
         "file": "CL_000009_002_texte.txt.xml",
         "authors": [
+			"Blin, Emmery",
             "Colin, Henri",
             "Charcot, Jean-Martin",
             "Charcot, Jean-Baptiste"

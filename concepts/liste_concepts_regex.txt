@@ -6,12 +6,14 @@ Amyotrophie(s)? symptomatique(s)?
 Analgésie(s)?
 Anatomie(s)? macroscopique(s)?
 Anesthésie(s)?
+Anévrisme(?:\s+de)?\s+Charcot(?:[-\s]*et[-\s]*|[-\s]*)Bouchard*
 Anévrisme(s)? miliaire(s)?
 Angioneuroses(s)?
 Aphasie(s)?
 Apoplexie(s)? spinale(s)?
 Artère(s)? cérébrale(s)? postérieure(s)?
 Arthrite(s)? déformante(s)?
+Arthropathie(s)? de Charcot
 Arthropathie(s)? des ataxiques
 Arthropathie(s)? tabétique(s)?
 Articulations(s)?
@@ -27,6 +29,7 @@ Attaque(s)? hystérique(s)?
 Attitude(s)? passionnelles(s)?
 Attraction(s)?
 Aura(s)? hystérique(s)?
+Automatisme(s)? ambulatoire(s)?
 Avant-mur(s)?
 Bromure(s)? de camphre(s)?
 Bulbe(s)? rachidien(s)?
@@ -35,9 +38,12 @@ Capsule(s)? surrénale(s)?
 Catalepsie(s)?
 Cellule(s)? nerveuse(s)?
 Cerveau(x)?
+Charcot-Féré
+Charcot-Marie
+Charcot-Wilbrand
 Chloroforme(s)?
 Chorée(s)?
-Chorée(s)? rythmique(s)? hystérique(s)?
+Chorée(s)?(?:\s+rythmique(s)?)?(?:\s+hystérique(s)?)?
 Cicatrice(s)? vicieuse(s)?
 Cirrhoses?( des muscles?| du muscle)?
 Clonus
@@ -49,12 +55,14 @@ Contracture(s)? hystérique(s)? permanente(s)?
 Contracture(s)? permanente(s)?
 Contracture(s)? tardive(s)?
 Contracture(s)? de(s)? uretère(s)?
+Coupe(s)? de Charcot
 Coupe(s)? verticale(s)?
 Convulsionnaire(s)?
 Convulsion(s)?
 Corde(s)? (du|des) tympan(s)?
 Corps granuleux
 Corps opto-strié(s)?
+Coupe(s)? de Charcot
 Coupe(s)? verticale(s)?
 Courant(s)? électriques(s)?
 Crise(s)? gastrique(s)?
@@ -78,7 +86,7 @@ Endocardite(s)?
 [EÉ]pilepsie(s)?
 [ÉE]pilepsie(s)? spinale(s)?
 [EÉ]ruption(s)?
-[EÉ]rythème(s)? pernios
+[EÉ]rythème(s)? pernio(s)?
 Escarre(s)? (de|des) la fesse(s)?
 Escarre(s)? sacrée(s)?
 [EÉ]tat(s)? de(s)? (mal|maux) épileptique(s)?
@@ -89,6 +97,7 @@ Expériences(s)?
 Faisceau(x)? racliculaire(s)? interne(s)?
 Faradisation(s)?
 Fève(s)? de(s)? Calabar(s)?
+Fugue(s)?
 Ganglion(s)?
 Géomorphisme(s)? cutané(s)?
 Glossy skin(s)?
@@ -137,14 +146,17 @@ Lésion(s)? oculaire(s)?
 Localisation(s)? cérébrale(s)?
 Main(s)?
 Maladie(s)?( de)? Charcot
+Maladie(s)?( de)? Charcot-Marie
 Maladie(s)?( de)? Charcot-Marie-Tooth
 Maladie(s)?( de)? Gilles de la Tourette
 Maladie(s)?( de)? Parkinson
 Maladie(s)? dégénérative(s)?
+Marie-Tooth
 Méningite(s)? ascendante(s)?
 Méningite(s)? cervical(es)?
 Métalloscopie(s)?
 Méthode(s)? anatomo-clinique(s)?
+Migraine(s)? ophtalmique(s)?
 Migraine(s)? ophtalmoplégique(s)?
 Miracle(s)?
 Moëlle(s)? épinière(s)?
@@ -175,6 +187,7 @@ Nutrition(s)?
 Nystagmus
 Oblitération(s)?
 Oligurie(s)? hystérique(s)?
+Organisation(s)? de la mo[eë]lle épinière
 Os
 Ovaire(s)?
 Ovarie(s)? hystérique(s)?
@@ -224,8 +237,9 @@ Sclérose(s)? en plaque(s)?
 Sclérose(s)? en plaque(s)? disséminées(s)?
 Scotome(s)? scintillant(s)?
 Status epilepticus
-Syndrôme(s)?( de)?( Gilles de la)? Tourette
-Syndrôme(s)?( de)? Parkinson
+Syndrome(s)?( de)? Charcot-Féré
+Syndrome(s)?( de)?( Gilles de la)? Tourette
+Syndrome(s)?( de)? Parkinson
 Secours
 Section(s)?
 Simulation(s)?
@@ -233,15 +247,16 @@ Somnambulisme(s)?
 Systématisation(s)? de l'organisation de la mo[eë]lle épinière
 Tab[eè]s
 Tab[eè]s dorsalis
-Tab[eè]s dorsalis spasmodique(s)?
+Tab[eè]s spasmodique(s)?
 Tarentisme(s)?
 Température(s)?
 Tic(s)?
+Tic(s)? convulsif(s)?
 Torticoli(s)?
 Thermoanesthésie(s)?
 Thrombose(s)? de l'artère cérébrale postérieure
 Tremblement(s)?
-Trépidation(s)? épilepto[ïi]de(s)? au pied
+Trépidations?( épilepto[ïi]de(s)?)?( au pied)?
 Trismus
 Trouble(s)? hémorragique(s)?
 Trouble(s)? trophiques(s)?
