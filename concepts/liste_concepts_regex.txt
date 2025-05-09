@@ -267,7 +267,7 @@ Urée(s)?
 Uretère(s)?
 Urticaire(s)?
 Vertige(s)?
-Vision(s)?
+Visions?\s*(mentales?)?
 Vomissement(s)? hystériques(s)?
 Vomissement(s)? urémiques(s)?
 Vomissement(s)? de(s)? sang(s)?
