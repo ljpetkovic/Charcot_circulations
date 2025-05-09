@@ -38,6 +38,7 @@ Capsule(s)? surrénale(s)?
 Catalepsie(s)?
 Cellule(s)? nerveuse(s)?
 Cerveau(x)?
+Charcot-Bouchard
 Charcot-Féré
 Charcot-Marie
 Charcot-Wilbrand
