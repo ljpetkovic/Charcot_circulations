@@ -1,3 +1,5 @@
+# explication de l'algo BM25 : https://www.luigisbox.fr/glossaire-recherche/bm25/
+
 import os
 import re
 import csv

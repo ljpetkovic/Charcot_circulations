@@ -7,9 +7,9 @@ from transformers import BertTokenizer, BertModel
 import pandas as pd #j'ai rajouté ma librairie préferée, elle est plus rapide que 'csv' pour génerer les fichiers
 # et surtout ici je préfère génerer les fichiers excel pour facilité la lecture
 
-text_folder_path = "C:/Users/alrahabi/Documents/workspace/Python/TFIDF_BM25_BERT/input/"
-regex_file_path = "C:/Users/alrahabi/Documents/workspace/Python/TFIDF_BM25_BERT/regex.txt"
-corpus = 'Charcot' #changer sur 'autres', si l'autre corpus est analysé
+text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/corpus/txt"
+regex_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/concepts/liste_concepts_regex.txt"
+corpus = 'corpus_Autres' #changer sur 'autres', si l'autre corpus est analysé
 
 regex_frequencies = {}
 regex_tf = {}
@@ -170,8 +170,8 @@ df = pd.DataFrame.from_dict({'term': list(regex_bm25.keys()), 'score': list(rege
 df.to_excel(f'results_bm25_{corpus}.xlsx', index = None, header= True)
 
 # Initialize the BERT tokenizer and model for French:
-tokenizer = BertTokenizer.from_pretrained("bert-base-multilingual-cased")
-model = BertModel.from_pretrained("bert-base-multilingual-cased")
+tokenizer = BertTokenizer.from_pretrained("camembert-base")
+model = BertModel.from_pretrained("camembert-base")
 #hier, j'ai utilisé comme toi le modèle 'cased', mais comme j'ai mis tout le texte en minuscules, il faudra utiliser ici le modèle 'uncased'
 
 # Calculate the embeddings for each regex pattern:
@@ -225,10 +225,10 @@ with torch.no_grad():
             regex_bert[regex_name] = similarity.item()
 
 df = pd.DataFrame.from_dict({'term': list(regex_bert.keys()), 'score': list(regex_bert.values())})
-df.to_excel('results_BERT_Charcot.xlsx', index = None, header= True)
+df.to_excel('results_BERT_Autres.xlsx', index = None, header= True)
 
 # Write the regex frequencies, TF, IDF, BM25, and BERT scores to a CSV file:
-output_file_path = "C:/Users/alrahabi/Documents/workspace/Python/TFIDF_BM25_BERT/output.csv"
+output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/csv/output_retest_BERT_180725.csv"
 with open(output_file_path, "w", encoding="utf-8", newline="") as output_file:
     csv_writer = csv.writer(output_file)
     csv_writer.writerow(["Regex", "Frequency", "TF-IDF", "BM25", "BERT"])
