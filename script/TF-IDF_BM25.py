@@ -4,7 +4,7 @@ import csv
 import math
 
 # Define the path to the folder of UTF-8 text files and the path to the regex file
-text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/corpus/txt/txt_corpus_Autres"
+text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/corpus_echantillon/txt/txt_corpus_Autres"
 regex_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/concepts/liste_concepts_regex.txt"
 
 # Define a dictionary to hold regex frequencies, TF, IDF, TF-IDF, and BM25 values
@@ -52,6 +52,9 @@ for regex_name, tf_list in regex_tf.items():
         regex_idf[regex_name] = 0  # Avoid division by zero
 
 # Calculate the TF-IDF and BM25 weights for each regex pattern
+# La formule utilise deux paramètres réglables, k1 et b, 
+# pour contrôler l’impact de la fréquence du terme 
+# et la normalisation de la longueur du document sur le score.
 k1 = 1.2
 b = 0.75
 avg_doc_len = total_words / num_files if num_files > 0 else 1  # Avoid division by zero
@@ -86,7 +89,7 @@ regex_bm25_norm = {
 }
 
 # Write the regex frequencies, TF-IDF, Normalized TF-IDF, and BM25 weights to a CSV file
-output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/csv/output_autres_090525.csv"
+output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/csv/output_autres_corpus_echantillon_100725.csv"
 
 with open(output_file_path, "w", encoding="utf-8", newline="") as output_file:
     csv_writer = csv.writer(output_file)
