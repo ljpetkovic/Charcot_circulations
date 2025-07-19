@@ -54,7 +54,7 @@ for regex_name, tf_list in regex_tf.items():
         regex_idf[regex_name] = 0  # Avoid division by zero
 
 # Calculate the TF-IDF and BM25 weights for each regex pattern
-# La formule utilise deux paramètres réglables, k1 et b, 
+# La formule BM25 utilise deux paramètres réglables, k1 et b (valeurs par défaut), 
 # pour contrôler l’impact de la fréquence du terme 
 # et la normalisation de la longueur du document sur le score.
 k1 = 1.2
