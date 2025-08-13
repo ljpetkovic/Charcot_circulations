@@ -10,7 +10,7 @@ text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTI
 regex_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/concepts/liste_concepts_regex.txt"
 # → Fichier contenant les regex (expressions régulières), une par ligne
 
-output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/csv/output_autres_corpus_echantillon_210725.csv"
+output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/csv/output_autres_corpus_echantillon_130825.csv"
 # → Fichier CSV de sortie pour enregistrer les résultats
 
 # === Paramètres BM25 ===
