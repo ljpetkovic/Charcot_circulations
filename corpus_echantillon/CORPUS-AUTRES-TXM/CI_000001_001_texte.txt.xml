@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iconographie photographique de la Salpêtrière. Service de M.Charcot, 1875</title>
+        <author>Regnard, Paul</author>
+        <author>Bourneville, Désiré Magloire</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Projet OBVIE – Sorbonne Université</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2025">2025</date>
+      </publicationStmt>  
+      <sourceDesc>
+        <p>Transcription encodée du texte original publié en 1875.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1875" />
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="CI_000001_001" ana="1875">
+    <body>
+      <div>
+        <p>
+          <s>ICONOGRAPHIE</s>
+        </p>
+        <p>
+          <s>PHOTOGRAPHIQUE</s>
+        </p>
+        <p>
+          <s>DK</s>
+        </p>
+        <p>
+          <s>LA SALPÊTRIÈRE</s>
+        </p>
+        <p>
+          <s>ÉVREUX, IMPRIMERIE DE CHARLES HERISSE Y.</s>
+        </p>
+        <p>
+          <s>ICONOGRAPHIE PHOTOGRAPHIQUE</s>
+        </p>
+        <p>
+          <s>DE LA</s>
+        </p>
+        <p>
+          <s>SALPÉTRIÈRE</s>
+        </p>
+        <p>
+          <s>SERVICE DE</s>
+        </p>
+        <p>
+          <s>M. CHARCOT</s>
+        </p>
+        <p>
+          <s>PAR</s>
+        </p>
+        <p>
+          <s>Paul REGNARD et BOURNEVILLE</s>
+        </p>
+        <p>
+          <s>1875</s>
+        </p>
+        <p>
+          <s>HYSTÉRO-ÉPILEPSIE</s>
+        </p>
+        <p>
+          <s>ATTAQUES</s>
+        </p>
+        <p>
+          <s>STEKO EPILEPSIE Leronx</s>
+        </p>
+        <p>
+          <s>ATROPHIE CEREBRALE</s>
+        </p>
+        <p>
+          <s>HÉMIPLÉGIE - EPILEPSIE</s>
+        </p>
+        <p>
+          <s>EPILEPSIE PARTIELLE</s>
+        </p>
+        <p>
+          <s>CONTRACTURE</s>
+        </p>
+        <p>
+          <s>EPILEPSIE</s>
+        </p>
+        <p>
+          <s>PHYSIONOMIE</s>
+        </p>
+        <p>
+          <s>EPILEPSIE</s>
+        </p>
+        <p>
+          <s>DÉMENCE ÉPILEPTIQUE</s>
+        </p>
+        <p>
+          <s>VARIA</s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
