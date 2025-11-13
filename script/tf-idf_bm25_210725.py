@@ -4,31 +4,32 @@ import csv
 import math
 
 # === Paramètres de l'utilisateur ===
-text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/corpus_echantillon/txt/txt_corpus_Autres"
-# → Dossier contenant les fichiers texte (.txt) à analyser
 
+# Dossier contenant les fichiers texte (.txt) à analyser
+text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/corpus_echantillon/txt/txt_corpus_Charcot"
+
+# Fichier contenant les regex (expressions régulières), une par ligne
 regex_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/concepts/liste_concepts_regex.txt"
-# → Fichier contenant les regex (expressions régulières), une par ligne
 
-output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/csv/output_autres_corpus_echantillon_130825.csv"
-# → Fichier CSV de sortie pour enregistrer les résultats
+# Fichier CSV de sortie pour enregistrer les résultats
+output_file_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/Charcot_circulations/csv/output_charcot_070925.csv"
 
 # === Paramètres BM25 ===
 k1 = 1.2  # Poids de la fréquence du terme
 b = 0.75  # Contrôle de la normalisation par la longueur du document
 
 # === Lecture des expressions régulières ===
+# On compile chaque ligne non vide du fichier en regex insensible à la casse
 with open(regex_file_path, "r", encoding="utf-8") as regex_file:
     regex_patterns = [re.compile(pattern.strip(), re.IGNORECASE) for pattern in regex_file if pattern.strip()]
-    # → On compile chaque ligne non vide du fichier en regex insensible à la casse
-
+    
     print(f" {len(regex_patterns)} regex chargées.")
 
 # === Initialisation des structures de données ===
 doc_stats = {}  # Dictionnaire des statistiques par document
 doc_lengths = []  # Longueur (en mots) de chaque document
 df_counts = {pattern.pattern: 0 for pattern in regex_patterns}  
-# → df_counts[regex] = nombre de documents contenant cette regex
+# df_counts[regex] = nombre de documents contenant cette regex
 
 # === Traitement de chaque fichier texte du corpus ===
 for filename in os.listdir(text_folder_path):
@@ -59,11 +60,12 @@ for filename in os.listdir(text_folder_path):
 
 # === Calcul de l'IDF (inverse document frequency) pour chaque regex ===
 num_docs = len(doc_stats)  # Nombre total de documents
+
+# Formule : IDF = log(N / df) — plus une regex est fréquente, plus son IDF est faible
 idf_scores = {
     regex: math.log(num_docs / df_counts[regex]) if df_counts[regex] > 0 else 0
     for regex in df_counts
 }
-# Formule : IDF = log(N / df) — plus une regex est fréquente, plus son IDF est faible
 
 # === Calcul de la longueur moyenne des documents (utile pour BM25) ===
 avg_doc_len = sum(doc_lengths) / len(doc_lengths) if doc_lengths else 1
@@ -74,7 +76,7 @@ regex_scores = {}  # Dictionnaire pour stocker tous les résultats finaux
 for regex in df_counts:
     tfidf_total = 0    # Score TF-IDF total (sommé sur tous les documents)
     bm25_total = 0     # Score BM25 total (sommé sur tous les documents)
-    total_freq = 0     # Nombre total d’occurrences de la regex dans le corpus
+    total_freq = 0     # Nombre total d'occurrences de la regex dans le corpus
 
     for doc, stats in doc_stats.items():
         f = stats["regex_counts"].get(regex, 0)  # f = nombre d'occurrences dans ce document
@@ -112,7 +114,7 @@ for scores in regex_scores.values():
     scores["Normalized BM25"] = (
         (scores["BM25"] - min_bm25) / (max_bm25 - min_bm25) if max_bm25 > min_bm25 else 0
     )
-# → On obtient ainsi des scores comparables visuellement (entre 0 et 1)
+# On obtient ainsi des scores comparables visuellement (entre 0 et 1)
 
 # === Export des résultats dans un fichier CSV ===
 with open(output_file_path, "w", encoding="utf-8", newline="") as f:
@@ -129,5 +131,5 @@ with open(output_file_path, "w", encoding="utf-8", newline="") as f:
             round(scores["Normalized BM25"], 4),
         ])
 
-# Le fichier est maintenant écrit à l’emplacement donné
+# Écrire le fichier à l'emplacement donné
 output_file_path
