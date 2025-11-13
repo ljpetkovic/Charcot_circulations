@@ -1,0 +1,324 @@
+Regex,Frequency,TF-IDF,BM25,Normalized TF-IDF,Normalized BM25
+Abasie(s)?,332,0.0014,36.9575,0.8521,0.9805
+Achromatopsie(s)? hystérique(s)?,10,0.0001,14.8735,0.0703,0.3946
+Amaigrissement(s)?,323,0.0002,9.2106,0.1049,0.2444
+Amblyopie(s)? hystérique(s)?,46,0.0004,30.7793,0.2172,0.8166
+Amyotrophie(s)? Charcot-Marie,5,0.0001,11.6307,0.0408,0.3086
+Amyotrophie(s)? protopathique(s)?,4,0.0001,11.5139,0.0614,0.3055
+Amyotrophie(s)? symptomatique(s)?,2,0.0,7.0878,0.025,0.188
+Analgésie(s)?,587,0.0005,15.9451,0.3171,0.423
+Anatomie(s)? macroscopique(s)?,6,0.0001,14.0277,0.0746,0.3722
+Anesthésie(s)?,3972,0.0007,4.163,0.4161,0.1105
+Anévr[iy]sme(s)?,621,0.0012,22.9651,0.7498,0.6093
+Anévr[iy]sme(s)? de Charcot et Bouchard,0,0,0,0.0,0.0
+Anévr[iy]sme(s)? de Charcot-Bouchard,0,0,0,0.0,0.0
+Anévr[iy]sme(s)? de(s)? artère(s)?,2,0.0,6.7261,0.0218,0.1785
+Anévrisme(?:\s+de)?\s+Charcot(?:[-\s]*et[-\s]*|[-\s]*)Bouchard*,0,0,0,0.0,0.0
+Anévrisme(s)? miliaire(s)?,6,0.0001,14.078,0.0475,0.3735
+Angioneuroses(s)?,1,0.0,4.5293,0.0175,0.1202
+Aphasie(s)?,1722,0.0006,7.7916,0.363,0.2067
+Apoplexie(s)? spinale(s)?,3,0.0001,8.3564,0.0395,0.2217
+Artère(s)? cérébrale(s)? postérieure(s)?,22,0.0002,25.9531,0.1168,0.6886
+Arthrite(s)? déformante(s)?,31,0.0003,24.8423,0.1835,0.6591
+Arthropathie(s)? de Charcot,2,0.0,6.6021,0.0209,0.1752
+Arthropathie(s)? dégénérative(s)? progressive(s)?,0,0,0,0.0,0.0
+Arthropathie(s)? des ataxiques,38,0.0006,22.2791,0.3454,0.5911
+Arthropathie(s)? tabétique(s)?,31,0.0003,26.0282,0.1646,0.6906
+Articulations(s)?,799,0.0002,5.1412,0.1266,0.1364
+Astasie(s)?,246,0.0011,37.6912,0.7029,1.0
+Astasie(s)?-abasie(s)?,106,0.0005,32.9195,0.332,0.8734
+Ataxie(s)? locomotrice(s)?,568,0.0009,20.5508,0.5752,0.5452
+Ataxie(s)? locomotrice(s)? progressive(s)?,144,0.0015,37.285,0.929,0.9892
+Ataxie(s)? progressive(s)?,5,0.0001,12.4361,0.0504,0.3299
+Athétose(s)?,233,0.0004,20.9625,0.2316,0.5562
+Atrophie(s)? musculaire(s)? progressive(s)?,241,0.0004,20.8193,0.2421,0.5524
+Atrophie(s)? sous-cutanée(s)?,0,0,0,0.0,0.0
+Attaque(s)? apoplectiforme(s)?,76,0.0002,25.3043,0.147,0.6714
+Attaque(s)? hystérique(s)?,256,0.0009,34.7982,0.5417,0.9232
+Attaque(s)?-Accès,6,0.0002,7.9009,0.105,0.2096
+Attitude(s)? passionnelles(s)?,220,0.0013,36.579,0.8228,0.9705
+Attraction(s)?,54,0.0003,30.4218,0.1721,0.8071
+Aura(s)? hystérique(s)?,38,0.0004,26.0686,0.2527,0.6916
+Automatisme(s)? ambulatoire(s)?,62,0.0004,33.2744,0.2309,0.8828
+Avant-mur(s)?,84,0.0006,34.4725,0.3709,0.9146
+Bradykinésie(s)?,0,0,0,0.0,0.0
+Bromure(s)? de camphre(s)?,69,0.0004,33.3577,0.2579,0.885
+Bulbe(s)? rachidien(s)?,46,0.0005,31.4728,0.2788,0.835
+Bulbo(-spinale(s)?)?,142,0.0003,23.839,0.1712,0.6325
+Calvitie(s)?,11,0.0001,19.2527,0.0888,0.5108
+Capsule(s)? interne(s)?,740,0.0006,13.2373,0.3783,0.3512
+Capsule(s)? surrénale(s)?,68,0.0004,33.4525,0.2493,0.8875
+Catalepsie(s)?,694,0.0009,23.6735,0.583,0.6281
+Cellule(s)? nerveuse(s)?,1506,0.0005,7.6493,0.3133,0.2029
+Cerveau(x)?,6585,0.0,0.0,0.0,0.0
+Cessation(s)? de(s)? rêve(s)?,0,0,0,0.0,0.0
+Charcot-Bouchard,5,0.0001,10.5968,0.0464,0.2811
+Charcot-Féré,2,0.0,6.8293,0.0226,0.1812
+Charcot-Marie,15,0.0001,20.672,0.0852,0.5485
+Charcot-Wilbrand,0,0,0,0.0,0.0
+Chloroforme(s)?,324,0.0003,14.9145,0.1875,0.3957
+Choré(?:e(?:s)?|ique(?:s)?|[iï]forme(?:s)?),2208,0.0004,4.0383,0.2216,0.1071
+Chorée(s)?(?:\s+rythmique(s)?)?(?:\s+hystérique(s)?)?,1709,0.0003,3.9791,0.1717,0.1056
+Cicatrice(s)? vicieuse(s)?,5,0.0001,12.2853,0.0663,0.3259
+Cirrhoses?( des muscles?| du muscle)?,415,0.0015,27.335,0.9476,0.7252
+Clonique(s)?,587,0.0002,8.5337,0.1436,0.2264
+Clonus,283,0.0005,26.0285,0.3054,0.6906
+Cœlialgie(s)?,3,0.0001,6.8771,0.0525,0.1825
+Compression(s)? de(s)? l'ovaire(s)?,35,0.0004,24.8308,0.2324,0.6588
+Congestion(s)?,919,0.0002,5.7203,0.1373,0.1518
+Contractilité(s)? électrique(s)?,101,0.0006,34.4507,0.3743,0.914
+Contracture(s)? de(s)? uretère(s)?,0,0,0,0.0,0.0
+Contracture(s)? hystérique(s)? permanente(s)?,9,0.0001,14.8592,0.0813,0.3942
+Contracture(s)? permanente(s)?,158,0.0007,29.697,0.4131,0.7879
+Contracture(s)? tardive(s)?,29,0.0004,24.023,0.248,0.6374
+Convulsion(s)?,3112,0.0002,2.0741,0.1538,0.055
+Convulsionnaire(s)?,95,0.0006,28.8177,0.3605,0.7646
+Corde(s)? (du|des) tympan(s)?,45,0.0004,29.7085,0.2594,0.7882
+Cordon(s)? latér(al|aux),646,0.0006,13.3735,0.381,0.3548
+Cordon(s)? postérieur(s)?,1218,0.001,13.1022,0.6152,0.3476
+Corps granuleux,235,0.0008,30.8049,0.5262,0.8173
+Corps opto-strié(s)?,22,0.0002,25.7811,0.1171,0.684
+Coupe(s)? coronale(s)?,0,0,0,0.0,0.0
+Coupe(s)? de Charcot,0,0,0,0.0,0.0
+Coupe(s)? verticale(s)?,43,0.0002,16.8654,0.136,0.4475
+Courant(s)? électriques(s)?,41,0.0002,29.6979,0.1435,0.7879
+Crise(s)? gastrique(s)?,184,0.0005,28.1304,0.3347,0.7463
+Danse(s)?,253,0.0004,21.8147,0.2348,0.5788
+Décubitus aigu(s)?,30,0.0005,19.1515,0.2792,0.5081
+Déficience(s)? intellectuelle(s)?,1,0.0,3.9233,0.0123,0.1041
+Dégénération(s)? cireuse(s)?,2,0.0001,6.0881,0.035,0.1615
+Délire(s)?,8845,0.0014,4.2069,0.8552,0.1116
+Démarche(s)?,709,0.0002,5.5303,0.1136,0.1467
+Diab[eéè]t(?:e|es|ique|iques)(?:\s+mellitus)?,1557,0.0012,13.5146,0.7391,0.3586
+Dimension(s)? histologique(s)?( de l’anatomie macroscopique)?,0,0,0,0.0,0.0
+Diplopie(s)?,415,0.0003,13.7761,0.2126,0.3655
+Douleurs(s)?,4044,0.0003,2.102,0.2093,0.0558
+Dynamométrie(s)?,2,0.0,7.044,0.0248,0.1869
+Dysarthrie(s)?,44,0.0002,29.3544,0.15,0.7788
+[EÉ]criture(s)?,796,0.0005,14.1737,0.3377,0.376
+[EÉ]lectro-diagnostic(s)?,32,0.0002,27.7263,0.1446,0.7356
+[EÉ]pidémie(s)?,478,0.0002,7.8624,0.13,0.2086
+[EÉ]pilepsie(s)?,5726,0.0009,4.2315,0.5718,0.1123
+[ÉE]pilepsie(s)? spinale(s)?,97,0.0005,34.3275,0.3335,0.9108
+[EÉ]ruption(s)?,431,0.0003,12.3831,0.1961,0.3285
+[EÉ]rythème(s)? pernio(s)?,1,0.0,4.5293,0.0175,0.1202
+[EÉ]tat(s)? de(s)? (mal|maux) épileptique(s)?,70,0.0004,33.1947,0.2392,0.8807
+[EÉ]tat(s)? de(s)? (mal|maux) hystéro-épileptique(s)?,24,0.0003,20.4549,0.1677,0.5427
+[EÉ]ther(s)?,284,0.0002,13.2199,0.139,0.3507
+Ecchymoses(s)?,179,0.0004,26.477,0.2697,0.7025
+Ecthyma(s)?,8,0.0001,15.5939,0.0755,0.4137
+Embarras\s+(de\s+)?parole,2,0.0,5.5891,0.0257,0.1483
+Embolie(s)?,292,0.0002,9.8392,0.1108,0.261
+Encéphalite(s)?,826,0.0006,16.039,0.3924,0.4255
+Endocardite(s)?,110,0.0005,31.0853,0.333,0.8247
+Escarre(s)? (de|des) la fesse(s)?,1,0.0,4.5293,0.0175,0.1202
+Escarre(s)? sacrée(s)?,12,0.0001,19.7278,0.0849,0.5234
+Exagération(s)? de(s)? refl[eè]xe(s)?,6,0.0001,9.4319,0.0634,0.2502
+Excitabilité(s)?,1450,0.0003,3.9306,0.1552,0.1043
+Expériences(s)?,2550,0.0002,2.0896,0.1344,0.0554
+Faisceau(x)? racliculaire(s)? interne(s)?,1,0.0,4.5293,0.0175,0.1202
+Faradisation(s)?,234,0.0006,27.8312,0.3759,0.7384
+Fève(s)? de(s)? Calabar(s)?,10,0.0002,15.5478,0.1151,0.4125
+Flexion(s)? brusque(s)?,16,0.0002,21.6731,0.1136,0.575
+Fugue(s)?,324,0.0009,30.3247,0.5331,0.8046
+Ganglion(s)?,1900,0.0002,2.028,0.1096,0.0538
+Gé(r)?omorphisme(s)?( cutané(s)?)?,0,0,0,0.0,0.0
+Gérodermie(s)?( de Souques-Charcot)?,0,0,0,0.0,0.0
+Globe(s)? hystérique(s)?,10,0.0002,14.0031,0.1168,0.3715
+Glossy skin(s)?,8,0.0002,13.2137,0.097,0.3506
+Griffe(s)?,206,0.0004,21.6721,0.2506,0.575
+Habitus eunuque(s)?,0,0,0,0.0,0.0
+Hémarthrose(s)?,0,0,0,0.0,0.0
+Hématome(s)?,101,0.0004,34.2207,0.2768,0.9079
+Hématomyélie(s)?,70,0.0004,34.9147,0.2402,0.9263
+Hémianesthésie(s)? de(s)? cause(s)? encéphalique(s)?,3,0.0001,6.8771,0.0525,0.1825
+Hémianesthésie(s)? hystérique(s)?,54,0.0004,32.1048,0.2377,0.8518
+Hémichorée(s)?,123,0.0006,34.9939,0.3562,0.9284
+Hémiopie(s)?,258,0.001,33.5301,0.6498,0.8896
+Hémiparaplégie(s)?,50,0.0005,29.032,0.3203,0.7703
+Hémiplégie(s)?,2447,0.0002,2.0755,0.1291,0.0551
+Hémisphère(s)? cérébr(al|aux),376,0.0003,12.5489,0.1713,0.3329
+Hémorragie(s)?,595,0.0009,24.3292,0.5355,0.6455
+Hémorragie(s)? digestive(s)?,0,0,0,0.0,0.0
+Hémorragie(s)? interne(s)?,1,0.0,4.1772,0.0142,0.1108
+Hémorragie(s)? intra-cérébrale(s)?,0,0,0,0.0,0.0
+Hémorragie(s)? méningée(s)?,35,0.0002,29.3758,0.1414,0.7794
+Histologie(s)?,274,0.0004,20.4113,0.2272,0.5415
+Hutchinson-Gilford,0,0,0,0.0,0.0
+Hypérémié(s)?,30,0.0003,28.8008,0.1646,0.7641
+Hyperesthésie(s)? ovarienne(s)?,42,0.0005,24.7756,0.308,0.6573
+Hypnose(s)?,385,0.0007,28.6906,0.4375,0.7612
+Hystérie(s)?,5805,0.0009,4.2072,0.5821,0.1116
+Hystérie(s)? épileptiforme(s)?,14,0.0002,17.6675,0.13,0.4687
+Hystérie(s)? grave(s)?,32,0.0002,28.8935,0.152,0.7666
+Hystérie(s)? infantile(s)?,75,0.0006,27.5203,0.3532,0.7302
+Hystérie(s)? locale(s)?,45,0.0005,28.926,0.3089,0.7674
+Hystérie(s)? locale(s)? traumatique(s)?,2,0.0,6.6031,0.0222,0.1752
+Hystérie(s)? ovarienne(s)?,7,0.0001,14.3382,0.0807,0.3804
+Hystéro-épilepsie(s)?,283,0.001,34.6099,0.599,0.9182
+Idée(s)? fixe(s)?,634,0.001,25.9036,0.5949,0.6873
+Immobilisation(s)?,68,0.0003,33.8561,0.2127,0.8982
+Incoorbination(s)? motrice(s)?,1,0.0,4.5293,0.0175,0.1202
+Infection(s)?,1012,0.0007,13.9488,0.4057,0.3701
+Intoxication(s)?,1932,0.0005,5.8112,0.2788,0.1542
+Irritabilité(s)?,264,0.0002,14.8221,0.1397,0.3933
+Irritation(s)?,929,0.0001,1.923,0.0493,0.051
+Ischémie(s)?,138,0.0004,28.63,0.2507,0.7596
+Ischurie(s)?,88,0.0009,28.8227,0.5656,0.7647
+Joint de Charcot,0,0,0,0.0,0.0
+Langue(s)?,2760,0.0004,4.1843,0.2773,0.111
+Latéropulsion(s)?,9,0.0001,15.529,0.0836,0.412
+Lèpre(s)?,236,0.0007,33.7482,0.4346,0.8954
+Lésion(s)?,17234,0.0,0.0,0.0,0.0
+Lésion(s)? oculaire(s)?,22,0.0002,25.9185,0.1057,0.6877
+Localisation(s)? cérébrale(s)?,238,0.0004,23.5234,0.276,0.6241
+Main(s)?,16900,0.0,0.0,0.0,0.0
+Maladie(s)? dégénérative(s)?,1,0.0,4.0232,0.013,0.1067
+Maladie(s)?( de)? Charcot,26,0.0015,25.7789,0.9053,0.6839
+Maladie(s)?( de)? Charcot-Marie,0,0,0,0.0,0.0
+Maladie(s)?( de)? Charcot-Marie-Tooth,0,0,0,0.0,0.0
+Maladie(s)?( de)? Lou-Gehrig,0,0,0,0.0,0.0
+Maladie(s)?( de)? Parkinson,76,0.0004,34.6339,0.2439,0.9189
+Maladie(s)?( de)?( Gilles de la)? Tourette,2,0.0,6.4986,0.0202,0.1724
+Maladie(s)?( de)s? tics,127,0.0008,35.7333,0.4876,0.9481
+Marie-Tooth,0,0,0,0.0,0.0
+Méningite(s)? ascendante(s)?,8,0.0002,12.1135,0.0997,0.3214
+Méningite(s)? cervical(es)?,80,0.0004,31.6768,0.2725,0.8404
+Métalloscopie(s)?,74,0.001,26.0114,0.5909,0.6901
+Méthode(s)? anatomo-clinique(s)?,40,0.0003,30.6961,0.1786,0.8144
+Méthode(s)? d'étude,8,0.0001,16.9945,0.0587,0.4509
+Migraine(s)? ophtalmique(s)?,120,0.0007,34.2495,0.4189,0.9087
+Migraine(s)? ophtalmoplégique(s)?,7,0.0001,13.5951,0.0528,0.3607
+Miracle(s)?,125,0.0004,30.0425,0.2332,0.7971
+Moëlle(s)? allongée(s)?,2,0.0,5.5523,0.0251,0.1473
+Moëlle(s)? épinière(s)?,4,0.0003,12.096,0.1892,0.3209
+Mouvement(s)? involontaire(s)?,108,0.0003,28.4301,0.1967,0.7543
+Mouvement(s)? lent(s)?,19,0.0002,24.462,0.0952,0.649
+Muscle(s)?,8307,0.0007,2.154,0.4387,0.0571
+Myélite(s)? aiguë(s)? centrale(s)?,14,0.0003,13.4538,0.2032,0.3569
+Myélite(s)? partielle(s)?,19,0.0003,20.5257,0.1913,0.5446
+Myélite(s)? traumatique(s)?,7,0.0001,15.1886,0.0732,0.403
+Myélopathie(s)?,29,0.0004,27.8065,0.2313,0.7377
+Myélopathie(s)? cervicale(s)?,0,0,0,0.0,0.0
+Myélopathie(s)? syphilitique(s)?,0,0,0,0.0,0.0
+Myodynie(s)?,2,0.0001,6.0881,0.035,0.1615
+Myopathie(s)?,313,0.0007,28.8762,0.4187,0.7661
+Néphro-cystite(s)?,2,0.0001,6.0881,0.035,0.1615
+Néphrotomie(s)?,4,0.0001,7.3535,0.07,0.1951
+Nerf(s)?,8750,0.0,0.0,0.0,0.0
+Nerf(s)? dilatateur(s)?,13,0.0002,14.9743,0.15,0.3973
+Nerf(s)? faci(al|aux),154,0.0004,27.8253,0.2283,0.7382
+Nerf(s)? glandulaire(s)?,6,0.0002,7.9009,0.105,0.2096
+Nerf(s)? sciatique(s)?,223,0.0006,26.9388,0.3679,0.7147
+Nerf(s)? sécréteur(s)?,8,0.0002,11.7713,0.0968,0.3123
+Nerf(s)? trijumeau(x)?,46,0.0003,31.3694,0.18,0.8323
+Nerf(s)? trophique(s)?,26,0.0003,25.1015,0.1586,0.666
+Nerf(s)? vaso-moteur(s)?,35,0.0003,25.1809,0.2097,0.6681
+Névrite(s)?,2231,0.0009,9.8899,0.5659,0.2624
+Névroglie(s)?,739,0.0006,16.8321,0.3931,0.4466
+Nitrite(s)? d'amyle(s)?,33,0.0003,28.6318,0.164,0.7596
+Nutrition(s)?,1169,0.0001,1.9751,0.0614,0.0524
+Nystagmus,411,0.0003,13.8114,0.1923,0.3664
+Oblitération(s)?,357,0.0005,17.1945,0.285,0.4562
+Obsession(s)?,1418,0.0016,23.0331,1.0,0.6111
+Oligurie(s)? hystérique(s)?,2,0.0,6.8975,0.0238,0.183
+Organisation(s)? de la mo[eë]lle épinière,0,0,0,0.0,0.0
+Os,109370,0.0,0.0,0.0,0.0
+Ossification(s)? prématurée(s)?,9,0.0001,16.0442,0.0706,0.4257
+Ovaire(s)?,338,0.0006,22.1596,0.3418,0.5879
+Ovarie(s)? hystérique(s)?,1,0.0,4.5293,0.0175,0.1202
+Pachymeningite(s)?,3,0.0,7.8186,0.0301,0.2074
+Pachymeningite(s)? cervicale(s)?,3,0.0,7.8186,0.0301,0.2074
+Pachymeningite(s)? cervicale(s)? hypertrophique(s)?,1,0.0,3.8817,0.012,0.103
+Pachymeningite(s)? cervicale(s)? hypertrophique(s)? idiopathique(s)?,0,0,0,0.0,0.0
+Paralysie(s)? agitante(s)?,320,0.0007,26.166,0.4172,0.6942
+Paralysie(s)? bulbaire(s)?,150,0.0005,32.8901,0.3311,0.8726
+Paralysie(s)? consécutive(s)?,26,0.0002,25.9745,0.1405,0.6891
+Paralysie(s)? diabétique(s)?,2,0.0001,7.7473,0.0313,0.2055
+Paralysie(s)? générale(s)? progressive(s)?,91,0.0002,23.6762,0.1367,0.6282
+Paralysie(s)? générale(s)? spinale(s)?,45,0.0005,27.9085,0.3194,0.7405
+Paralysie(s)? hystérique(s)?,157,0.0005,30.8856,0.31,0.8194
+Paralysie(s)? infantile(s)?,286,0.0006,24.3391,0.4015,0.6458
+Paralysie(s)? labio-glosso-laryngée(s)?,38,0.0004,29.3636,0.2554,0.7791
+Paralysie(s)? progressive(s)?,121,0.0003,27.3839,0.194,0.7265
+Paralysie(s)? pseudo-hypertrophique(s)?,59,0.0007,29.6008,0.4087,0.7854
+Paralysie(s)? rhumatismale(s)?,8,0.0001,13.918,0.091,0.3693
+Paralysie(s)? tremblante(s)?,0,0,0,0.0,0.0
+Paraplégie(s)? spasmodique(s)?,175,0.0006,31.8635,0.366,0.8454
+Paraplégie(s)? traumatique(s)?,8,0.0002,11.9491,0.0983,0.317
+Parésie(s)?,1539,0.0003,4.006,0.157,0.1063
+Parole(s)?,3816,0.0003,2.0956,0.1912,0.0556
+Peau(x)? lâche(s)?,0,0,0,0.0,0.0
+Peau(x)? ridée(s)?,1,0.0,3.9063,0.0122,0.1036
+Perte(s)? de l'imagerie,0,0,0,0.0,0.0
+Petit(s)? (mal|maux),196,0.0003,20.2729,0.1757,0.5379
+Pharynx,241,0.0002,15.5897,0.1482,0.4136
+Phlegmon(s)?,140,0.0004,27.0458,0.2415,0.7176
+Pied(s)? bot,88,0.0004,33.2243,0.2667,0.8815
+Pied(s)? creux,3,0.0,8.9914,0.0294,0.2386
+Pied(s)? de Charcot( diabétique)?,0,0,0,0.0,0.0
+Poriomanie(s)?,1,0.0,3.9108,0.0122,0.1038
+Pouls,1352,0.0001,2.0049,0.0686,0.0532
+Préambule(s)?,34,0.0003,30.0102,0.1839,0.7962
+Progéria(s)?,0,0,0,0.0,0.0
+Propulsion(s)?,47,0.0003,28.4388,0.1791,0.7545
+Putamen(s)?,29,0.0003,26.8074,0.1711,0.7112
+Rein(s)?,2555,0.0002,2.0825,0.1404,0.0553
+Rémission(s)?,615,0.0003,8.9712,0.158,0.238
+Rétention(s)?,488,0.0,1.7263,0.0255,0.0458
+Rétropuesion(s)?,1,0.0,4.5293,0.0175,0.1202
+Rigidité(s)?,717,0.0002,5.3448,0.1172,0.1418
+Salivation(s)?,83,0.0003,28.437,0.1969,0.7545
+Sclérodermie(s)?,103,0.0004,32.8253,0.2708,0.8709
+Sclérose(s)? descendante(s)?,39,0.0005,27.3437,0.3197,0.7255
+Sclérose(s)? en plaque(s)?,801,0.0007,13.7663,0.4135,0.3652
+Sclérose(s)? en plaque(s)? disséminées(s)?,45,0.0006,25.4581,0.3494,0.6754
+Sclérose(s)? fasciculée(s)?,38,0.0006,24.818,0.3627,0.6585
+Sclérose(s)? latérale(s)?,447,0.0008,20.0768,0.4968,0.5327
+Sclérose(s)? latérale(s)? amyotrophique(s)?,239,0.0008,27.1155,0.5263,0.7194
+Sclérose(s)? multiloculaire(s)?,68,0.0005,32.9183,0.3245,0.8734
+Sclérose(s)? multiple(s)?,59,0.0006,25.7785,0.3457,0.6839
+Sclérose(s)? postérieure(s)?,28,0.0004,27.2528,0.2749,0.7231
+Scotome(s)?( scintillant(s)?)?,124,0.0005,33.2376,0.2901,0.8818
+Secours,624,0.0,1.8423,0.0304,0.0489
+Section(s)?,2815,0.0002,2.0864,0.1422,0.0554
+Signe(s)? non[- ]moteurs?,0,0,0,0.0,0.0
+Simulation(s)?,421,0.0003,12.8338,0.1815,0.3405
+Somnambulisme(s)?,850,0.0009,18.8325,0.5589,0.4997
+Status epilepticus,5,0.0001,11.603,0.0543,0.3078
+Symptome(s)? non[- ]moteurs?,0,0,0,0.0,0.0
+Syndrome(s)?( de)? Charcot-Féré,0,0,0,0.0,0.0
+Syndrome(s)?( de)? Charcot-Joffroy,0,0,0,0.0,0.0
+Syndrome(s)?( de)? Charcot-Wilbrand,0,0,0,0.0,0.0
+Syndrome(s)?( de)? Hutchinson-Gilford,0,0,0,0.0,0.0
+Syndrome(s)?( de)? Parkinson,4,0.0001,10.2181,0.0407,0.2711
+Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0,0,0.0,0.0
+Systématisation(s)? de l'organisation de la mo[eë]lle épinière,0,0,0,0.0,0.0
+Système nerveux central,384,0.0003,14.3382,0.1791,0.3804
+Tab[eè]s dorsalis,149,0.0005,31.878,0.2984,0.8458
+Tab[eè]s dorsalis spasmodique(s)?,0,0,0,0.0,0.0
+Tarentisme(s)?,6,0.0001,9.5293,0.0523,0.2528
+Température(s)?,2463,0.0002,2.0726,0.1266,0.055
+Thermoanesthésie(s)?,20,0.0002,23.324,0.1363,0.6188
+Thrombose(s)? artérielle(s)?,7,0.0001,13.8038,0.0725,0.3662
+Thrombose(s)? de l'artère cérébrale postérieure,0,0,0,0.0,0.0
+Tic(s)?,30969,0.0,0.0,0.0,0.0
+Tic(s)? convulsif(s)?,99,0.0003,29.9225,0.2057,0.7939
+Torticoli(s)?,173,0.0006,36.1794,0.3877,0.9599
+Traitement(s)? par anticholinergique(s)?,0,0,0,0.0,0.0
+Tremblement(s)?,2627,0.0004,4.1165,0.2692,0.1092
+Trépidations?( épilepto[ïi]de(s)?)?( (au|du) pied)?,464,0.0004,16.0419,0.2611,0.4256
+Trismus,88,0.0003,30.9168,0.2015,0.8203
+Trouble(s)? hémorragique(s)?,0,0,0,0.0,0.0
+Trouble(s)? trophiques(s)?,645,0.0005,13.5631,0.2804,0.3598
+Tubercule(s)? de(s)? la mo[ëe]lle(s)?,5,0.0001,11.4996,0.0551,0.3051
+Tympanisme(s)?,18,0.0002,23.9571,0.1141,0.6356
+Urée(s)?,4516,0.0,0.0,0.0,0.0
+Uretère(s)?,76,0.0007,31.4591,0.4625,0.8347
+Urticaire(s)?,62,0.0003,30.4075,0.1758,0.8068
+Vertige(s)?,1930,0.0003,4.0134,0.2015,0.1065
+Visions?\s*(mentales?)?,2862,0.0,0.0,0.0,0.0
+Vomissement(s)? de(s)? sang(s)?,19,0.0002,22.3363,0.1196,0.5926
+Vomissement(s)? hystériques(s)?,13,0.0001,20.1742,0.0859,0.5352
+Vomissement(s)? urémiques(s)?,2,0.0001,6.0881,0.035,0.1615
+Zon[ea](s)?,3380,0.0,0.0,0.0,0.0

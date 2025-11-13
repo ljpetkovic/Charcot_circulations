@@ -1,0 +1,7 @@
+Regex,Frequency,TF-IDF,BM25,Normalized TF-IDF,Normalized BM25
+Abasie(s)?,84,100.55,2.62,0.0459,0.2652
+Achromatopsie(s)? hystérique(s)?,2,7.74,7.41,0.0015,0.7527
+Amblyopie(s)? hystérique(s)?,22,49.76,4.91,0.0216,0.4982
+Amyotrophie(s)? protopathique(s)?,0,0,0,0,0
+Amyotrophie(s)? symptomatique(s)?,0,0,0,0,0
+Analgésie(s)?,324,204.94,1.39,0.0959,0.1394
