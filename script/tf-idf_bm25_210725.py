@@ -3,7 +3,7 @@ import re
 import csv
 import math
 
-# === Paramètres de l'utilisateur ===
+# === Paramètres de l'utilisateur === 
 # Dossier contenant les fichiers texte (.txt) à analyser
 text_folder_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/SU/ObTIC/CHARCOT/corpus_echantillon/txt/txt_corpus_Charcot"
 
